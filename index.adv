@@ -1,0 +1,3886 @@
+'tween_decks r 1 0 1 0 00450133
+a.d. r 1 0 1 0 00000096
+a.m. r 1 1 ;c 1 0 00231726
+a_bit r 1 0 1 0 00031519
+a_cappella r 1 0 1 0 00000000
+a_fortiori r 1 0 1 0 00058849
+a_la_carte r 1 0 1 0 00238205
+a_la_mode r 1 0 1 0 00450023
+a_little r 1 0 1 0 00031519
+a_million_times r 1 0 1 0 00313724
+a_posteriori r 1 1 ! 1 0 00231945
+a_priori r 1 1 ! 1 0 00232030
+a_trifle r 1 0 1 0 00031519
+abaxially r 1 1 ! 1 0 00463198
+abjectly r 1 0 1 0 00244270
+abnormally r 1 0 1 0 00209124
+abominably r 1 0 1 0 00283118
+aborad r 1 1 ! 1 0 00161314
+above_all r 2 0 2 0 00140014 00147238
+abstemiously r 1 0 1 0 00244475
+abstractly r 1 1 ! 1 0 00183566
+abstrusely r 1 0 1 0 00244642
+abusively r 1 0 1 0 00051915
+academically r 1 0 1 0 00113333
+accelerando r 1 1 ;c 1 0 00244791
+accusingly r 1 0 1 0 00061515
+acoustically r 1 0 1 0 00125233
+across_the_board r 1 0 1 0 00140266
+actively r 1 1 ! 1 0 00074206
+acutely r 3 1 ! 3 0 00130609 00251578 00453818
+ad r 1 0 1 0 00000096
+ad_hoc r 1 0 1 0 00231412
+ad_infinitum r 1 0 1 0 00081000
+ad_interim r 1 0 1 0 00081751
+ad_nauseam r 1 0 1 0 00231497
+ad_val r 1 0 1 0 00231589
+ad_valorem r 1 0 1 0 00231589
+adagio r 1 1 ;c 1 0 00244904
+adamantly r 1 0 1 0 00165114
+adaxially r 1 1 ! 1 0 00463273
+additionally r 1 0 1 0 00043245
+adequately r 1 1 ! 1 0 00335790
+adjectivally r 1 0 1 0 00463348
+adjectively r 1 0 1 0 00246910
+administratively r 1 0 1 0 00244992
+admirably r 1 0 1 0 00201314
+admiringly r 1 0 1 0 00052016
+adorably r 1 0 1 0 00245105
+adoringly r 1 0 1 0 00052105
+adrift r 2 0 2 0 00247109 00247236
+adroitly r 1 1 ! 1 0 00052191
+adulterously r 1 0 1 0 00125335
+adverbially r 1 0 1 0 00247005
+adversely r 1 0 1 0 00241342
+advertently r 1 1 ! 1 0 00142988
+aerially r 1 0 1 0 00187563
+aesthetically r 1 0 1 0 00241452
+affectedly r 1 0 1 0 00061605
+affirmatively r 1 0 1 0 00463428
+afoot r 1 0 1 0 00220569
+after_a_fashion r 1 0 1 0 00140362
+after_all r 2 0 2 0 00140470 00140625
+after_hours r 1 0 1 0 00140745
+again_and_again r 1 0 1 0 00164922
+against_the_clock r 1 0 1 0 00140839
+against_the_wind r 1 1 ! 1 0 00087650
+against_time r 1 0 1 0 00140839
+aggravatingly r 1 0 1 0 00459863
+aggressively r 1 0 1 0 00046895
+agilely r 1 0 1 0 00176267
+agonizingly r 1 0 1 0 00241573
+ahead_of_the_game r 1 0 1 0 00140972
+aimlessly r 1 0 1 0 00190325
+alarmingly r 1 0 1 0 00003668
+alas r 1 1 ! 1 0 00039799
+alertly r 1 0 1 0 00249533
+algebraically r 1 0 1 0 00122222
+all_along r 1 0 1 0 00063178
+all_at_once r 2 0 2 0 00141247 00417326
+all_day_long r 1 0 1 0 00278921
+all_of_a_sudden r 1 0 1 0 00141247
+all_right r 2 1 ;u 2 0 00013345 00049591
+all_the_time r 1 0 1 0 00146036
+all_the_way r 2 0 2 0 00141355 00141461
+all_together r 2 0 2 0 00059137 00417326
+all_too r 1 0 1 0 00230703
+allegedly r 1 0 1 0 00143520
+allegorically r 1 0 1 0 00125531
+allegretto r 1 1 ;c 1 0 00249782
+allegro r 1 1 ;c 1 0 00249895
+alliteratively r 1 0 1 0 00250005
+allowably r 1 1 ! 1 0 00080326
+alright r 2 1 ;u 2 0 00013345 00049591
+alternately r 1 0 1 0 00127616
+altruistically r 1 0 1 0 00250118
+amateurishly r 1 1 ! 1 0 00197643
+ambiguously r 1 1 ! 1 0 00202390
+ambitiously r 1 1 ! 1 0 00242290
+amicably r 1 0 1 0 00242580
+amidship r 1 0 1 0 00252151
+amok r 2 0 2 0 00252218 00252361
+amorally r 1 1 ! 1 0 00331298
+amorously r 1 0 1 0 00247451
+amuck r 2 0 2 0 00252218 00252361
+amusingly r 1 0 1 0 00087022
+anachronistically r 1 0 1 0 00209950
+analogously r 1 0 1 0 00065767
+analytically r 1 0 1 0 00221849
+anarchically r 1 0 1 0 00222189
+anatomically r 1 0 1 0 00059445
+anciently r 1 0 1 0 00003280
+and_how r 1 0 1 0 00141631
+and_so_forth r 1 0 1 0 00096790
+and_so_on r 1 0 1 0 00096790
+and_then_some r 1 0 1 0 00141725
+angelically r 1 0 1 0 00247538
+animatedly r 1 0 1 0 00243315
+anisotropically r 1 0 1 0 00001538
+anno_domini r 1 0 1 0 00000096
+annoyingly r 1 0 1 0 00001605
+anomalously r 1 0 1 0 00250259
+anonymously r 1 0 1 0 00242664
+antagonistically r 1 0 1 0 00245208
+ante_meridiem r 1 1 ;c 1 0 00231726
+antithetically r 1 0 1 0 00252505
+any_longer r 1 0 1 0 00029394
+anymore r 1 0 1 0 00029394
+apathetically r 1 0 1 0 00245394
+apologetically r 1 0 1 0 00162423
+appealingly r 1 1 ! 1 0 00241809
+appositively r 1 0 1 0 00113441
+appreciably r 1 0 1 0 00004588
+appropriately r 1 1 ! 1 0 00129439
+architecturally r 1 0 1 0 00247628
+arduously r 1 0 1 0 00253030
+arguably r 1 0 1 0 00003394
+argumentatively r 1 0 1 0 00290868
+aristocratically r 1 0 1 0 00187785
+arithmetically r 1 0 1 0 00250643
+around_the_clock r 1 0 1 0 00141843
+arrogantly r 1 0 1 0 00245729
+artfully r 2 0 2 0 00226662 00288064
+articulately r 2 1 ! 2 0 00247756 00298775
+artificially r 1 1 ! 1 0 00130435
+artistically r 1 0 1 0 00228823
+artlessly r 2 0 2 0 00253112 00253233
+as_a_formality r 1 0 1 0 00240639
+as_a_group r 1 0 1 0 00146337
+as_a_matter_of_fact r 1 0 1 0 00138109
+as_far_as_possible r 1 0 1 0 00111373
+as_follows r 1 0 1 0 00141967
+as_if_by_magic r 1 0 1 0 00120747
+as_it_is r 1 0 1 0 00024869
+as_it_were r 1 0 1 0 00142058
+as_much_as_possible r 1 0 1 0 00111373
+as_needed r 1 0 1 0 00169075
+as_required r 1 0 1 0 00169075
+as_such r 1 0 1 0 00034307
+as_the_crow_flies r 1 0 1 0 00142278
+as_usual r 1 0 1 0 00100041
+as_we_say r 1 0 1 0 00142163
+asap r 1 0 1 0 00032028
+ascetically r 1 0 1 0 00245952
+asexually r 1 0 1 0 00068570
+ashamedly r 1 1 ! 1 0 00246068
+asleep r 2 0 2 0 00253667 00253740
+assertively r 1 1 ! 1 0 00246146
+assiduously r 1 0 1 0 00251353
+astronomically r 1 0 1 0 00113559
+astutely r 1 0 1 0 00251578
+asymmetrically r 1 1 ! 1 0 00163843
+asymptotically r 1 0 1 0 00068662
+at_a_loss r 1 0 1 0 00242763
+at_a_low_price r 1 0 1 0 00147600
+at_a_time r 1 0 1 0 00142539
+at_all r 1 0 1 0 00052719
+at_all_costs r 1 0 1 0 00142395
+at_an_equal_rate r 1 0 1 0 00237217
+at_any_cost r 1 0 1 0 00142395
+at_any_expense r 1 0 1 0 00142395
+at_arm's_length r 1 0 1 0 00229900
+at_best r 1 1 ! 1 0 00098890
+at_close_range r 1 0 1 0 00371253
+at_first_blush r 1 0 1 0 00096551
+at_first_glance r 1 0 1 0 00096450
+at_first_hand r 1 0 1 0 00309875
+at_first_sight r 1 0 1 0 00096450
+at_home r 2 1 ;c 2 0 00091390 00091490
+at_large r 1 0 1 0 00097370
+at_least r 1 1 ! 1 0 00097481
+at_length r 1 0 1 0 00060851
+at_most r 1 1 ! 1 0 00097663
+at_once r 1 0 1 0 00142539
+at_one_time r 1 0 1 0 00142539
+at_stake r 2 0 2 0 00147854 00147958
+at_the_best r 1 1 ! 1 0 00098890
+at_the_least r 1 1 ! 1 0 00097481
+at_the_most r 1 1 ! 1 0 00097663
+at_the_same_time r 2 0 2 0 00112215 00112324
+at_the_worst r 1 1 ! 1 0 00099022
+at_will r 1 0 1 0 00142649
+at_worst r 1 1 ! 1 0 00099022
+atonally r 1 0 1 0 00218569
+atrociously r 1 0 1 0 00109421
+attentively r 1 0 1 0 00182267
+attractively r 1 1 ! 1 0 00223127
+attributively r 1 1 ;c 1 0 00248057
+atypically r 1 1 ! 1 0 00119511
+audaciously r 1 0 1 0 00246582
+auspiciously r 1 1 ! 1 0 00200125
+austerely r 1 0 1 0 00254952
+authoritatively r 1 0 1 0 00222598
+autocratically r 2 0 2 0 00187887 00284590
+automatically r 2 0 2 0 00003580 00106325
+avidly r 1 0 1 0 00246745
+awkwardly r 1 0 1 0 00180842
+axially r 1 0 1 0 00071785
+axiomatically r 1 0 1 0 00113647
+b.c. r 1 0 1 0 00000399
+b.c.e. r 1 0 1 0 00000552
+baby-like r 1 0 1 0 00461290
+baby-wise r 1 0 1 0 00461290
+back_and_forth r 1 0 1 0 00071160
+backward_and_forward r 1 0 1 0 00071160
+bacterially r 1 0 1 0 00120848
+balefully r 1 0 1 0 00255884
+balmily r 1 0 1 0 00278250
+banefully r 1 0 1 0 00255971
+bannerlike r 1 0 1 0 00128778
+banteringly r 1 0 1 0 00256226
+barbarously r 1 0 1 0 00256336
+barefacedly r 1 1 ! 1 0 00193519
+bashfully r 1 0 1 0 00210613
+bawdily r 1 0 1 0 00256635
+bc r 1 0 1 0 00000399
+bce r 1 0 1 0 00000552
+beautifully r 1 1 ! 1 0 00223127
+becomingly r 1 0 1 0 00256687
+befittingly r 1 1 ! 1 0 00129439
+before_christ r 1 0 1 0 00000399
+believably r 1 1 ! 1 0 00225466
+believingly r 1 1 ! 1 0 00271964
+belligerently r 1 0 1 0 00223488
+below_the_belt r 1 1 ! 1 0 00262293
+beneficially r 1 0 1 0 00256775
+benevolently r 1 1 ! 1 0 00357718
+benignantly r 1 0 1 0 00256883
+benignly r 1 0 1 0 00256883
+best_of_all r 1 0 1 0 00174718
+bestially r 1 0 1 0 00258337
+between_decks r 1 0 1 0 00450133
+bewilderedly r 1 0 1 0 00180920
+bewilderingly r 1 0 1 0 00193239
+bewitchingly r 1 0 1 0 00257096
+beyond_a_doubt r 1 0 1 0 00338943
+beyond_a_shadow_of_a_doubt r 1 0 1 0 00338943
+beyond_control r 1 1 ! 1 0 00137683
+beyond_doubt r 1 0 1 0 00338943
+beyond_measure r 1 0 1 0 00043596
+biannually r 1 0 1 0 00257344
+biennially r 1 0 1 0 00257239
+bilaterally r 2 0 2 0 00233192 00233266
+bilingually r 1 0 1 0 00120442
+binaurally r 1 1 ! 1 0 00192189
+biochemically r 1 0 1 0 00124502
+biologically r 1 0 1 0 00124185
+biradially r 1 0 1 0 00049138
+biyearly r 2 0 2 0 00235441 00257239
+blamelessly r 1 0 1 0 00450594
+blasphemously r 1 0 1 0 00257543
+blatantly r 1 0 1 0 00233742
+bleakly r 1 0 1 0 00163414
+blessedly r 1 0 1 0 00001944
+blissfully r 1 0 1 0 00253473
+bloodily r 1 1 ! 1 0 00248807
+bloodlessly r 1 1 ! 1 0 00248637
+body_and_soul r 1 0 1 0 00153113
+boiling r 1 1 ;u 1 0 00002000
+boisterously r 1 0 1 0 00203168
+bombastically r 2 0 2 0 00248888 00249007
+bonnily r 1 0 1 0 00450743
+boorishly r 1 0 1 0 00257796
+boringly r 1 0 1 0 00198159
+boundlessly r 1 0 1 0 00206737
+bounteously r 1 0 1 0 00257881
+bountifully r 1 0 1 0 00257881
+boyishly r 1 0 1 0 00249125
+boylike r 1 0 1 0 00249125
+brashly r 1 0 1 0 00261530
+bravely r 1 0 1 0 00161400
+brazenly r 1 0 1 0 00071894
+breast-deep r 1 0 1 0 00239165
+breast-high r 1 0 1 0 00239165
+breathlessly r 1 0 1 0 00201951
+breezily r 1 0 1 0 00258116
+brilliantly r 1 0 1 0 00071969
+briskly r 1 0 1 0 00258212
+broad-mindedly r 1 1 ! 1 0 00368310
+broadside r 1 0 1 0 00409664
+brutally r 1 0 1 0 00186351
+brutishly r 1 0 1 0 00258337
+bumptiously r 1 0 1 0 00258466
+buoyantly r 1 0 1 0 00258584
+bureaucratically r 2 0 2 0 00258788 00258896
+but_then r 1 1 ! 1 0 00111719
+buxomly r 1 0 1 0 00219066
+by_a_long_shot r 1 0 1 0 00144408
+by_all_means r 1 2 ! ;u 1 0 00052905
+by_any_means r 1 0 1 0 00144867
+by_artificial_means r 1 1 ! 1 0 00130435
+by_chance r 1 0 1 0 00321399
+by_far r 1 0 1 0 00044086
+by_fits_and_starts r 1 0 1 0 00145216
+by_hand r 1 1 ! 1 0 00050936
+by_heart r 1 0 1 0 00144994
+by_hook_or_by_crook r 1 0 1 0 00144867
+by_inches r 1 0 1 0 00145095
+by_luck r 1 0 1 0 00321399
+by_machine r 1 1 ! 1 0 00051047
+by_memory r 1 0 1 0 00144994
+by_no_means r 1 2 ! ;u 1 0 00053030
+by_right_of_office r 1 0 1 0 00232822
+by_small_degrees r 1 0 1 0 00145095
+by_the_day r 1 0 1 0 00231231
+by_the_piece r 1 0 1 0 00145474
+by_trial_and_error r 1 1 ! 1 0 00077827
+by_word_of_mouth r 1 0 1 0 00238311
+c.e. r 1 0 1 0 00000239
+c.o.d. r 1 0 1 0 00234142
+cagily r 1 0 1 0 00259015
+cajolingly r 1 0 1 0 00263221
+calculatingly r 1 0 1 0 00457142
+callously r 1 0 1 0 00220146
+calumniously r 1 0 1 0 00412924
+cannily r 1 0 1 0 00389363
+canonically r 1 0 1 0 00463493
+cantankerously r 1 0 1 0 00259124
+cap-a-pie r 1 0 1 0 00232124
+capriciously r 2 0 2 0 00259213 00259390
+captiously r 1 0 1 0 00259500
+captivatingly r 1 0 1 0 00257096
+carelessly r 3 1 ! 3 0 00152947 00203048 00260036
+carnally r 1 0 1 0 00389512
+cash_on_delivery r 1 0 1 0 00234142
+casually r 2 0 2 0 00224002 00243810
+catalytically r 1 0 1 0 00072193
+catastrophically r 1 0 1 0 00123608
+caudal r 1 0 1 0 00456760
+caudally r 1 0 1 0 00456760
+causally r 1 0 1 0 00456841
+caustically r 1 0 1 0 00259597
+cavalierly r 1 0 1 0 00260255
+ce r 1 0 1 0 00000239
+ceaselessly r 1 0 1 0 00260376
+centennially r 1 0 1 0 00260826
+centrally r 1 1 ! 1 0 00106946
+cerebrally r 2 0 2 0 00123950 00124023
+ceremonially r 2 1 ! 2 0 00202662 00202903
+ceremoniously r 1 1 ! 1 0 00202903
+ceteris_paribus r 1 0 1 0 00235659
+cf r 1 0 1 0 00177911
+cf. r 1 0 1 0 00177911
+chaotically r 2 0 2 0 00260966 00261077
+charily r 1 0 1 0 00259975
+charitably r 1 0 1 0 00190235
+charmingly r 1 0 1 0 00218645
+chastely r 1 0 1 0 00261188
+chattily r 1 0 1 0 00261290
+cheek_by_jowl r 1 0 1 0 00152241
+cheekily r 1 0 1 0 00261530
+cheerfully r 1 1 ! 1 0 00212290
+cheerlessly r 1 1 ! 1 0 00212399
+chemically r 2 0 2 0 00120163 00120283
+childishly r 1 0 1 0 00181659
+chirpily r 1 0 1 0 00258584
+chivalrously r 1 1 ! 1 0 00261645
+chock r 1 0 1 0 00233834
+chock-a-block r 1 0 1 0 00233834
+chorally r 1 0 1 0 00126279
+chromatically r 1 0 1 0 00059713
+chromatographically r 1 0 1 0 00127532
+chronically r 2 1 ! 2 0 00130715 00130845
+chronologically r 1 0 1 0 00059797
+churlishly r 1 0 1 0 00261775
+circularly r 1 0 1 0 00261895
+circumspectly r 1 0 1 0 00259015
+clammily r 1 0 1 0 00451307
+clannishly r 1 0 1 0 00261953
+classically r 1 0 1 0 00227568
+cleverly r 1 0 1 0 00174243
+climatically r 1 0 1 0 00262982
+clinically r 1 0 1 0 00059897
+cliquishly r 1 0 1 0 00261953
+close_to_the_wind r 1 1 ;c 1 0 00149299
+close_up r 1 0 1 0 00371253
+closer r 1 1 ;u 1 0 00369161
+closest r 1 1 ;u 1 0 00369379
+cloyingly r 1 0 1 0 00233937
+clumsily r 1 0 1 0 00176919
+coarsely r 1 1 ! 1 0 00177212
+coastward r 1 0 1 0 00404095
+coaxingly r 1 0 1 0 00263221
+cod r 1 0 1 0 00234142
+cognitively r 1 0 1 0 00463592
+coherently r 1 1 ! 1 0 00263326
+coincidentally r 1 0 1 0 00461506
+coincidently r 1 0 1 0 00461506
+cold-bloodedly r 1 0 1 0 00311793
+collect r 1 0 1 0 00233999
+collectedly r 1 0 1 0 00263751
+colloidally r 1 0 1 0 00263899
+colloquially r 1 0 1 0 00263584
+combatively r 1 0 1 0 00264013
+come_hell_or_high_water r 1 0 1 0 00145870
+comfortably r 2 1 ! 2 0 00144007 00144123
+comfortingly r 1 0 1 0 00264168
+comically r 1 0 1 0 00075621
+commendable r 1 0 1 0 00201314
+commensally r 1 0 1 0 00224114
+commercially r 1 0 1 0 00072326
+common_era r 1 0 1 0 00000239
+communally r 1 0 1 0 00151791
+compactly r 3 0 3 0 00264333 00266681 00274841
+comparably r 1 1 ! 1 0 00336615
+compatibly r 1 1 ! 1 0 00264462
+competitively r 1 1 ! 1 0 00224174
+complacently r 1 0 1 0 00264615
+complainingly r 1 1 ! 1 0 00264944
+complexly r 1 0 1 0 00463679
+composedly r 1 0 1 0 00263751
+comprehensively r 1 1 ! 1 0 00265068
+compulsively r 1 0 1 0 00224430
+compulsorily r 1 0 1 0 00265235
+computationally r 1 0 1 0 00265480
+con r 1 1 ! 1 0 00265790
+con_brio r 1 1 ;c 1 0 00017969
+concavely r 1 1 ! 1 0 00451621
+conceitedly r 1 0 1 0 00265916
+conceptually r 1 0 1 0 00266043
+concernedly r 1 0 1 0 00266186
+conclusively r 1 1 ! 1 0 00086037
+concretely r 1 1 ! 1 0 00183449
+concurrently r 1 0 1 0 00112324
+condescendingly r 1 0 1 0 00268196
+conditionally r 1 1 ! 1 0 00268636
+confidently r 1 0 1 0 00196210
+conformably r 1 0 1 0 00021282
+confusingly r 1 0 1 0 00193239
+congenially r 1 0 1 0 00277013
+conically r 1 0 1 0 00266863
+conjecturally r 1 0 1 0 00018069
+conjugally r 1 0 1 0 00451361
+connubial r 1 0 1 0 00451361
+conscientiously r 1 0 1 0 00166379
+consciously r 1 1 ! 1 0 00223636
+consecutive r 1 0 1 0 00268357
+consecutively r 1 0 1 0 00018173
+consequentially r 1 1 ! 1 0 00270369
+considerately r 1 1 ! 1 0 00170367
+consistently r 1 1 ! 1 0 00112556
+consolingly r 1 0 1 0 00264168
+conspicuously r 2 1 ! 2 0 00192587 00336900
+constitutionally r 1 1 ! 1 0 00114038
+constructively r 1 0 1 0 00270653
+contagiously r 1 0 1 0 00277131
+contemporaneously r 1 0 1 0 00270804
+contemptibly r 1 0 1 0 00074929
+contentedly r 1 0 1 0 00219819
+contextually r 1 0 1 0 00461697
+continually r 1 0 1 0 00082115
+continuously r 2 0 2 0 00178098 00260376
+contractually r 1 0 1 0 00075125
+contradictorily r 1 0 1 0 00130957
+contrastingly r 1 0 1 0 00270975
+controversially r 1 1 ! 1 0 00277239
+contumaciously r 1 0 1 0 00184294
+conveniently r 1 1 ! 1 0 00183070
+conventionally r 1 1 ! 1 0 00021344
+conversationally r 1 0 1 0 00263584
+convexly r 1 1 ! 1 0 00451528
+convincingly r 1 1 ! 1 0 00178821
+convivially r 1 0 1 0 00277463
+convulsively r 1 0 1 0 00184184
+coolly r 1 0 1 0 00271135
+cooperatively r 1 0 1 0 00152120
+coordinately r 1 0 1 0 00451712
+coquettishly r 1 0 1 0 00277576
+correspondingly r 1 0 1 0 00174036
+corruptedly r 1 0 1 0 00451775
+corruptly r 1 0 1 0 00451775
+cortically r 1 0 1 0 00086558
+cosmetically r 1 0 1 0 00072927
+coterminously r 1 0 1 0 00018554
+counteractively r 1 0 1 0 00269281
+counterintuitively r 1 0 1 0 00234470
+courageously r 1 0 1 0 00161400
+covertly r 1 1 ! 1 0 00073147
+covetously r 1 0 1 0 00277682
+coyly r 1 0 1 0 00267999
+crazily r 1 1 ! 1 0 00075228
+creakily r 1 0 1 0 00277826
+creakingly r 1 0 1 0 00277826
+creatively r 1 0 1 0 00164156
+creditably r 1 0 1 0 00399750
+credulously r 1 1 ! 1 0 00271964
+crisply r 1 0 1 0 00195334
+crisscross r 1 0 1 0 00269118
+critically r 1 1 ! 1 0 00171994
+crookedly r 1 0 1 0 00222259
+cross-country r 2 0 2 0 00269349 00269475
+cross-legged r 1 0 1 0 00268085
+cross-linguistically r 1 0 1 0 00121999
+crosstown r 1 0 1 0 00269711
+crucially r 1 0 1 0 00268884
+crudely r 2 0 2 0 00150469 00253233
+crushingly r 1 0 1 0 00277947
+cryptically r 1 0 1 0 00272123
+cryptographically r 1 0 1 0 00272255
+culpably r 1 0 1 0 00278041
+culturally r 1 0 1 0 00126115
+cum_laude r 1 0 1 0 00267473
+cumulatively r 1 0 1 0 00267299
+cunningly r 1 0 1 0 00272325
+currishly r 1 0 1 0 00278146
+cursively r 1 0 1 0 00463735
+curvaceously r 1 0 1 0 00219066
+cussedly r 1 0 1 0 00184423
+customarily r 1 0 1 0 00194838
+cutely r 1 0 1 0 00272325
+cuttingly r 1 0 1 0 00336169
+cynically r 1 0 1 0 00266939
+cytophotometrically r 1 0 1 0 00267060
+cytoplasmically r 1 0 1 0 00267131
+daftly r 1 0 1 0 00278250
+daintily r 2 0 2 0 00278402 00278493
+damply r 1 0 1 0 00272874
+dandily r 1 0 1 0 00454921
+dangerously r 1 0 1 0 00083444
+daringly r 2 0 2 0 00278616 00278733
+dashingly r 1 0 1 0 00278825
+dauntingly r 1 0 1 0 00273039
+dauntlessly r 1 1 ! 1 0 00185061
+day_after_day r 1 0 1 0 00165779
+day_in_and_day_out r 1 0 1 0 00146036
+day_in_day_out r 1 0 1 0 00165779
+daylong r 1 0 1 0 00278921
+dazzlingly r 1 0 1 0 00076106
+de_facto r 1 0 1 0 00055961
+de_jure r 1 1 ! 1 0 00232237
+de_novo r 1 1 ;c 1 0 00105465
+dead_ahead r 1 0 1 0 00146149
+deadpan r 1 0 1 0 00146244
+deceitfully r 1 1 ! 1 0 00287232
+deceivingly r 1 0 1 0 00076196
+deceptively r 1 0 1 0 00076196
+decipherably r 1 1 ! 1 0 00329329
+decisively r 3 1 ! 3 0 00273306 00273434 00273748
+decoratively r 1 0 1 0 00073051
+decorously r 1 1 ! 1 0 00279089
+defectively r 1 0 1 0 00451845
+defenceless r 1 0 1 0 00280087
+defencelessly r 1 0 1 0 00280087
+defenseless r 1 0 1 0 00280087
+defenselessly r 1 0 1 0 00280087
+defensively r 2 1 ! 2 0 00280259 00280492
+deferentially r 2 0 2 0 00281728 00281834
+defiantly r 1 0 1 0 00184294
+deftly r 2 0 2 0 00274004 00283804
+dejectedly r 1 0 1 0 00274087
+deliciously r 2 0 2 0 00210309 00356981
+delightedly r 1 0 1 0 00274241
+delightfully r 1 0 1 0 00274336
+deliriously r 2 0 2 0 00281966 00282054
+delusively r 1 0 1 0 00282155
+demandingly r 1 0 1 0 00453921
+demeaningly r 1 0 1 0 00194989
+dementedly r 1 1 ! 1 0 00075228
+democratically r 1 1 ! 1 0 00114303
+demoniacally r 1 0 1 0 00099149
+demonstrably r 1 0 1 0 00282268
+demonstratively r 1 0 1 0 00298027
+demurely r 1 0 1 0 00274472
+denominationally r 1 0 1 0 00086448
+departmentally r 1 0 1 0 00461769
+deplorably r 1 0 1 0 00086284
+deprecatively r 1 0 1 0 00076503
+depressingly r 1 0 1 0 00076567
+derisively r 1 0 1 0 00275912
+derisorily r 1 0 1 0 00275912
+descriptively r 1 0 1 0 00276061
+desolately r 1 0 1 0 00282421
+desperately r 2 0 2 0 00067925 00457903
+despicably r 1 0 1 0 00282810
+despitefully r 1 0 1 0 00282893
+destructively r 1 0 1 0 00283020
+determinedly r 2 1 ! 2 0 00195779 00242290
+detestably r 1 0 1 0 00283118
+detrimentally r 1 1 ! 1 0 00283288
+developmentally r 1 0 1 0 00276702
+devilishly r 1 0 1 0 00282551
+deviously r 1 0 1 0 00283508
+devoutly r 1 0 1 0 00283701
+dexterously r 1 0 1 0 00283804
+dextrously r 1 0 1 0 00283804
+diabolically r 1 0 1 0 00282551
+diagonally r 1 0 1 0 00283936
+dialectically r 1 0 1 0 00228590
+dichotomously r 1 0 1 0 00076655
+dictatorially r 1 0 1 0 00284590
+didactically r 1 0 1 0 00284774
+differentially r 1 0 1 0 00284889
+diffidently r 1 0 1 0 00282691
+diffusely r 1 0 1 0 00177007
+digitally r 2 0 2 0 00114848 00114941
+digitately r 1 0 1 0 00076719
+diligently r 1 0 1 0 00285094
+dimly r 3 0 3 0 00195461 00195573 00377828
+dingdong r 1 1 ;u 1 0 00084080
+dingily r 1 0 1 0 00451948
+diplomatically r 1 1 ! 1 0 00187993
+direfully r 1 0 1 0 00285300
+disagreeably r 1 1 ! 1 0 00285593
+disappointedly r 1 0 1 0 00285746
+disappointingly r 1 0 1 0 00285877
+disastrously r 1 0 1 0 00286025
+disbelievingly r 1 1 ! 1 0 00271786
+disconcertingly r 1 0 1 0 00286177
+disconsolately r 1 0 1 0 00282421
+discordantly r 1 0 1 0 00218123
+discouragingly r 1 1 ! 1 0 00299633
+discourteously r 1 1 ! 1 0 00201164
+discreditably r 1 0 1 0 00286515
+discreetly r 1 1 ! 1 0 00338444
+discursively r 1 0 1 0 00452022
+disdainfully r 1 0 1 0 00260255
+disgracefully r 1 0 1 0 00286515
+disgustedly r 1 0 1 0 00286736
+disgustingly r 1 0 1 0 00286877
+dishonestly r 1 1 ! 1 0 00287232
+dishonorably r 3 1 ! 3 0 00286515 00287822 00443695
+dishonourably r 1 0 1 0 00286515
+disingenuously r 1 0 1 0 00288064
+disinterestedly r 1 0 1 0 00288212
+disjointedly r 1 0 1 0 00288331
+disloyally r 1 1 ! 1 0 00288693
+dismally r 2 0 2 0 00288842 00289071
+disobediently r 1 1 ! 1 0 00289468
+disparagingly r 1 0 1 0 00289787
+dispassionately r 1 0 1 0 00289634
+dispiritedly r 1 0 1 0 00289954
+displaying_incompetence r 1 1 ! 1 0 00172464
+displeasingly r 1 0 1 0 00290152
+disproportionately r 2 1 ! 2 0 00290275 00290577
+disputatiously r 1 0 1 0 00290868
+disquietingly r 1 0 1 0 00290952
+disregarding r 1 0 1 0 00110690
+disregardless r 1 0 1 0 00110690
+disreputably r 1 1 ! 1 0 00291061
+disrespectfully r 1 1 ! 1 0 00291417
+disruptively r 1 0 1 0 00076777
+dissolutely r 1 0 1 0 00452095
+distally r 1 1 ;c 1 0 00164251
+distantly r 1 0 1 0 00291551
+distastefully r 2 0 2 0 00286877 00291662
+distinctively r 1 0 1 0 00453016
+distractedly r 1 0 1 0 00281631
+distressfully r 1 0 1 0 00291809
+distressingly r 1 0 1 0 00106842
+distributively r 2 0 2 0 00291933 00292077
+distrustfully r 1 1 ! 1 0 00292229
+disturbingly r 1 0 1 0 00292487
+diversely r 1 0 1 0 00048802
+divertingly r 1 0 1 0 00087022
+divinely r 1 0 1 0 00176655
+doctrinally r 1 0 1 0 00292625
+doggedly r 1 0 1 0 00217753
+dolce r 1 1 ;c 1 0 00463791
+dolefully r 1 0 1 0 00292830
+doltishly r 1 0 1 0 00163484
+domestically r 2 0 2 0 00292994 00293133
+domineeringly r 1 0 1 0 00293297
+dorsally r 1 0 1 0 00076959
+dorsoventrally r 1 0 1 0 00077028
+dottily r 1 0 1 0 00278250
+double_quick r 1 0 1 0 00293604
+double_time r 1 0 1 0 00293604
+doubtfully r 1 0 1 0 00293722
+dourly r 1 0 1 0 00223386
+dowdily r 1 0 1 0 00293828
+downfield r 1 1 ;c 1 0 00090507
+downwind r 1 1 ! 1 0 00087523
+drably r 1 0 1 0 00294182
+draggingly r 1 0 1 0 00463861
+dramatically r 3 1 ! 3 0 00128870 00175130 00227455
+drastically r 1 0 1 0 00052661
+dreadfully r 1 0 1 0 00288842
+drearily r 1 0 1 0 00289071
+drily r 1 0 1 0 00212892
+drippily r 1 0 1 0 00359082
+dripping r 1 0 1 0 00416952
+droopingly r 1 0 1 0 00294390
+drop-dead r 1 1 ;u 1 0 00043501
+drunkenly r 1 0 1 0 00184670
+dryly r 1 0 1 0 00212892
+dubiously r 2 0 2 0 00293722 00395708
+dully r 2 0 2 0 00218234 00218314
+dumbly r 1 0 1 0 00294576
+dutifully r 1 0 1 0 00294826
+dynamically r 1 0 1 0 00294954
+e'en r 1 0 1 0 00016088
+e.g. r 1 0 1 0 00148061
+eagerly r 1 0 1 0 00186008
+earlier r 1 0 1 0 00239355
+earliest r 1 0 1 0 00032517
+ebulliently r 1 0 1 0 00295921
+eccentrically r 2 0 2 0 00463919 00464004
+ecclesiastically r 1 0 1 0 00296118
+ecologically r 1 0 1 0 00296234
+ecstatically r 1 0 1 0 00296378
+editorially r 1 0 1 0 00208864
+eerily r 1 0 1 0 00296994
+effectively r 2 1 ! 2 0 00055815 00297495
+effectually r 1 1 ! 1 0 00297103
+efficaciously r 1 1 ! 1 0 00297495
+efficiently r 1 1 ! 1 0 00217858
+effortlessly r 1 0 1 0 00182695
+effusively r 1 0 1 0 00297930
+egotistically r 1 1 ! 1 0 00298129
+either r 1 0 1 0 00022682
+elaborately r 1 0 1 0 00078525
+electrically r 1 0 1 0 00120082
+electronically r 1 0 1 0 00115473
+electrostatically r 1 0 1 0 00131054
+elegantly r 2 1 ! 2 0 00298392 00298566
+elementarily r 1 0 1 0 00297867
+eloquently r 2 1 ! 2 0 00247756 00298775
+eminently r 1 0 1 0 00299238
+emotionally r 2 1 ! 2 0 00172612 00172696
+empathetically r 1 1 ! 1 0 00178519
+empirically r 1 1 ! 1 0 00077827
+emulously r 1 0 1 0 00299380
+en_bloc r 1 0 1 0 00146337
+en_clair r 1 0 1 0 00232673
+en_famille r 1 0 1 0 00232729
+en_masse r 1 0 1 0 00146337
+en_passant r 1 0 1 0 00155085
+en_route r 1 0 1 0 00159793
+enchantingly r 1 0 1 0 00257096
+encouragingly r 1 1 ! 1 0 00299501
+endearingly r 1 0 1 0 00245105
+endlessly r 4 1 ! 4 0 00206470 00260376 00260644 00345363
+endogenously r 1 0 1 0 00464078
+enduringly r 1 0 1 0 00230807
+energetically r 1 0 1 0 00083756
+engagingly r 1 0 1 0 00218703
+enigmatically r 1 0 1 0 00272123
+enquiringly r 1 0 1 0 00341840
+enterprisingly r 1 0 1 0 00300132
+entertainingly r 1 0 1 0 00300255
+enthrallingly r 1 0 1 0 00257096
+enthusiastically r 1 1 ! 1 0 00175517
+enviably r 1 0 1 0 00002078
+enviously r 1 0 1 0 00277682
+environmentally r 1 0 1 0 00300411
+episodically r 1 0 1 0 00131178
+equably r 1 0 1 0 00300525
+equitably r 1 1 ! 1 0 00300616
+equivocally r 1 1 ! 1 0 00202390
+erectly r 1 0 1 0 00300903
+erotically r 1 0 1 0 00464141
+erratically r 1 0 1 0 00100512
+eruditely r 1 0 1 0 00301018
+eschatologically r 1 0 1 0 00078800
+esthetically r 1 0 1 0 00241452
+et_al r 2 0 2 0 00177504 00177623
+et_al. r 2 0 2 0 00177504 00177623
+et_alia r 1 0 1 0 00177623
+et_aliae r 1 0 1 0 00177623
+et_alibi r 1 0 1 0 00177504
+et_alii r 1 0 1 0 00177623
+etc. r 1 0 1 0 00096790
+etcetera r 1 0 1 0 00096790
+ethically r 1 1 ! 1 0 00301149
+ethnically r 1 0 1 0 00115567
+euphemistically r 1 0 1 0 00301439
+evasively r 1 0 1 0 00301576
+even_a_little r 1 0 1 0 00139902
+even_as r 1 0 1 0 00015695
+every_inch r 1 0 1 0 00146559
+every_now_and_then r 1 0 1 0 00146444
+every_so_often r 1 0 1 0 00146444
+evilly r 1 0 1 0 00133882
+evolutionarily r 1 0 1 0 00301861
+ex_cathedra r 1 0 1 0 00078275
+ex_officio r 1 0 1 0 00232822
+ex_vivo r 1 0 1 0 00464338
+exasperatingly r 1 0 1 0 00078918
+excitedly r 1 0 1 0 00143210
+excitingly r 1 1 ! 1 0 00303114
+excruciatingly r 1 0 1 0 00241573
+excusably r 1 1 ! 1 0 00303458
+exorbitantly r 1 0 1 0 00303865
+expansively r 2 0 2 0 00295921 00455953
+expectantly r 1 0 1 0 00226767
+expediently r 1 1 ! 1 0 00304005
+expeditiously r 1 1 ! 1 0 00217858
+expensively r 1 1 ! 1 0 00304181
+expertly r 1 1 ! 1 0 00197518
+explicitly r 1 1 ! 1 0 00333708
+explosively r 2 0 2 0 00304460 00304579
+exponentially r 1 0 1 0 00304712
+expressively r 1 1 ! 1 0 00304925
+expressly r 1 0 1 0 00079136
+externally r 1 1 ! 1 0 00229641
+extortionately r 1 0 1 0 00303865
+extravagantly r 1 0 1 0 00305367
+exuberantly r 2 0 2 0 00295921 00305529
+exultantly r 1 0 1 0 00209360
+exultingly r 1 0 1 0 00209360
+fabulously r 1 0 1 0 00029987
+face-to-face r 1 0 1 0 00041765
+face_to_face r 1 0 1 0 00041407
+facetiously r 1 0 1 0 00079272
+facially r 1 0 1 0 00126431
+factually r 1 0 1 0 00137886
+faddily r 1 0 1 0 00305654
+faddishly r 1 0 1 0 00305654
+faithlessly r 1 0 1 0 00305720
+false r 1 0 1 0 00305720
+falteringly r 1 1 ! 1 0 00162530
+fanatically r 1 0 1 0 00306763
+fancifully r 1 0 1 0 00306887
+fantastically r 1 0 1 0 00029987
+far_and_away r 1 0 1 0 00044086
+far_and_near r 1 0 1 0 00095255
+far_and_wide r 1 0 1 0 00095255
+farcically r 1 0 1 0 00307006
+fascinatingly r 1 0 1 0 00218959
+fashionably r 1 1 ! 1 0 00307094
+faster r 1 0 1 0 00080059
+fastest r 1 0 1 0 00080160
+fastidiously r 2 0 2 0 00307424 00377336
+fatally r 1 0 1 0 00457689
+fatefully r 1 0 1 0 00307876
+fatuously r 1 0 1 0 00186918
+faultily r 1 0 1 0 00307998
+faultlessly r 1 0 1 0 00308108
+favorably r 1 1 ! 1 0 00212023
+favourably r 1 1 ! 1 0 00212023
+fearfully r 2 1 ! 2 0 00184958 00456927
+fearlessly r 1 1 ! 1 0 00185061
+fearsomely r 1 0 1 0 00308227
+feasibly r 1 0 1 0 00387895
+fecklessly r 2 0 2 0 00152653 00210072
+federally r 1 0 1 0 00115672
+feebly r 2 0 2 0 00308353 00308467
+feetfirst r 1 0 1 0 00226109
+felicitously r 1 1 ! 1 0 00308935
+ferociously r 1 0 1 0 00226205
+fervently r 1 0 1 0 00309178
+fervidly r 1 0 1 0 00309178
+feudally r 1 0 1 0 00131322
+feverishly r 1 0 1 0 00131239
+fictitiously r 2 0 2 0 00095483 00095573
+fiendishly r 1 0 1 0 00282551
+fiercely r 2 0 2 0 00226205 00226354
+fierily r 1 0 1 0 00309178
+figuratively r 1 1 ! 1 0 00309517
+financially r 1 0 1 0 00191521
+finely r 2 1 ! 2 0 00095782 00177321
+finitely r 1 1 ! 1 0 00206611
+firmly r 1 0 1 0 00206267
+first_and_last r 1 0 1 0 00147238
+first_class r 1 0 1 0 00309746
+firsthand r 1 0 1 0 00309875
+fiscally r 1 0 1 0 00122120
+fitfully r 1 0 1 0 00310112
+fitly r 1 1 ! 1 0 00129439
+fittingly r 1 1 ! 1 0 00129439
+flabbily r 1 0 1 0 00310279
+flagrantly r 1 0 1 0 00310380
+flamboyantly r 1 0 1 0 00310479
+flashily r 2 0 2 0 00310479 00362956
+flat_out r 1 0 1 0 00079788
+fleetly r 1 0 1 0 00049712
+flexibly r 1 1 ! 1 0 00310685
+flimsily r 1 0 1 0 00310944
+flip-flap r 1 0 1 0 00311047
+flirtatiously r 1 0 1 0 00277576
+flop r 1 0 1 0 00311358
+floridly r 1 0 1 0 00452167
+flush r 2 0 2 0 00080659 00080740
+focally r 1 0 1 0 00086652
+foolishly r 1 1 ! 1 0 00186777
+for_24_hours r 1 0 1 0 00141843
+for_a_bargain_price r 1 0 1 0 00147600
+for_a_song r 1 0 1 0 00147600
+for_all_intents_and_purposes r 1 0 1 0 00056063
+for_all_practical_purposes r 1 0 1 0 00056063
+for_all_the_world r 1 0 1 0 00148391
+for_any_price r 1 0 1 0 00148391
+for_anything r 1 0 1 0 00148391
+for_dear_life r 1 0 1 0 00147749
+for_each_person r 1 0 1 0 00452856
+for_example r 1 0 1 0 00148061
+for_good_measure r 1 0 1 0 00148170
+for_instance r 1 0 1 0 00148061
+for_keeps r 1 0 1 0 00148303
+for_love_or_money r 1 0 1 0 00148391
+for_one r 1 0 1 0 00148561
+for_short r 1 0 1 0 00148706
+for_that_matter r 1 0 1 0 00093913
+for_the_asking r 1 0 1 0 00148786
+for_the_moment r 1 0 1 0 00050737
+for_the_time_being r 1 0 1 0 00050737
+forbiddingly r 1 0 1 0 00311546
+forcefully r 1 0 1 0 00311665
+forcibly r 1 0 1 0 00311900
+forgetfully r 1 0 1 0 00312039
+forgivably r 1 1 ! 1 0 00303458
+forgivingly r 1 1 ! 1 0 00312142
+forlornly r 1 0 1 0 00312450
+formally r 1 1 ! 1 0 00173267
+formidably r 1 0 1 0 00312563
+formlessly r 1 0 1 0 00312704
+foursquare r 2 0 2 0 00047674 00212699
+fractiously r 2 0 2 0 00313964 00379530
+frantically r 1 0 1 0 00454696
+fraternally r 1 0 1 0 00314082
+fraudulently r 1 0 1 0 00314142
+freakishly r 1 0 1 0 00259390
+frenetically r 1 0 1 0 00099149
+frenziedly r 1 0 1 0 00314258
+fretfully r 1 0 1 0 00315032
+frighteningly r 1 0 1 0 00314690
+friskily r 1 0 1 0 00315130
+frivolously r 1 0 1 0 00315237
+from_head_to_toe r 1 0 1 0 00232124
+from_nowhere r 1 0 1 0 00160012
+from_pillar_to_post r 1 0 1 0 00460214
+from_scratch r 1 0 1 0 00148903
+from_start_to_finish r 1 0 1 0 00141573
+from_the_heart r 1 0 1 0 00343900
+from_way_back r 1 0 1 0 00149189
+frontally r 1 0 1 0 00131408
+frothily r 1 0 1 0 00315382
+frowningly r 1 0 1 0 00221020
+frugally r 1 0 1 0 00314394
+fruitlessly r 1 1 ! 1 0 00197368
+frumpily r 1 0 1 0 00293828
+frumpishly r 1 0 1 0 00293828
+fugally r 1 1 ;c 1 0 00027064
+full-time r 1 1 ! 1 0 00232951
+fulsomely r 1 0 1 0 00438641
+functionally r 1 0 1 0 00314577
+furiously r 3 0 3 0 00205772 00205886 00206005
+fussily r 1 0 1 0 00167266
+futilely r 1 0 1 0 00028977
+gainfully r 1 0 1 0 00315486
+gainlessly r 1 0 1 0 00391754
+gallantly r 1 1 ! 1 0 00261645
+gamely r 1 0 1 0 00315574
+garishly r 1 0 1 0 00315742
+garrulously r 1 0 1 0 00356274
+gaudily r 1 0 1 0 00315742
+genealogically r 1 0 1 0 00315894
+generically r 2 0 2 0 00316005 00316114
+generously r 1 0 1 0 00182462
+genetically r 1 0 1 0 00115758
+genteelly r 1 0 1 0 00316223
+geographically r 1 0 1 0 00213465
+geologically r 1 0 1 0 00316319
+geothermally r 1 0 1 0 00119230
+gibingly r 1 0 1 0 00316443
+girlishly r 1 0 1 0 00100648
+give_or_take r 1 0 1 0 00236887
+glacially r 1 0 1 0 00131593
+gleefully r 1 1 ! 1 0 00316808
+glissando r 1 1 ;c 1 0 00317079
+globally r 1 0 1 0 00119994
+gloriously r 2 0 2 0 00317402 00317543
+glossily r 1 0 1 0 00317670
+gloweringly r 1 0 1 0 00318043
+glowingly r 1 0 1 0 00318156
+glumly r 1 0 1 0 00223386
+gluttonously r 1 0 1 0 00318273
+god_knows_how r 1 0 1 0 00176772
+goddam r 1 1 ;u 1 0 00318366
+goddamn r 1 1 ;u 1 0 00318366
+goddamned r 1 1 ;u 1 0 00318366
+good-naturedly r 1 0 1 0 00318476
+good_and r 1 1 ;u 1 0 00030402
+gorgeously r 1 0 1 0 00318542
+governmentally r 1 0 1 0 00121186
+gracefully r 1 1 ! 1 0 00167456
+gracelessly r 2 1 ! 2 0 00167558 00180564
+grammatically r 1 1 ! 1 0 00441026
+grandiloquently r 1 0 1 0 00357473
+grandiosely r 1 0 1 0 00248888
+grandly r 1 0 1 0 00318699
+gratifyingly r 1 0 1 0 00170854
+gratingly r 1 0 1 0 00318808
+gratuitously r 1 0 1 0 00318936
+gravely r 1 0 1 0 00171193
+gravitationally r 1 0 1 0 00131784
+grayly r 1 0 1 0 00319197
+greasily r 1 0 1 0 00319032
+greenly r 1 0 1 0 00223896
+gregariously r 1 0 1 0 00319124
+greyly r 1 0 1 0 00319197
+grimly r 1 0 1 0 00100880
+grotesquely r 1 0 1 0 00319652
+grubbily r 1 0 1 0 00451948
+gruesomely r 1 0 1 0 00320188
+gruffly r 1 0 1 0 00320275
+grungily r 1 0 1 0 00451948
+gushingly r 1 0 1 0 00320524
+gutturally r 1 0 1 0 00131887
+habitually r 1 0 1 0 00194565
+haggardly r 1 0 1 0 00454371
+half-hourly r 1 0 1 0 00320735
+half-time r 1 1 ! 1 0 00233061
+haltingly r 1 0 1 0 00196568
+hand_and_foot r 1 0 1 0 00136817
+hand_and_glove r 1 0 1 0 00152120
+hand_in_glove r 1 0 1 0 00152120
+hand_in_hand r 2 0 2 0 00136911 00225971
+hand_over_fist r 1 0 1 0 00137006
+hand_to_hand r 1 0 1 0 00051160
+hand_to_mouth r 1 0 1 0 00051240
+handily r 2 1 ! 2 0 00137097 00183070
+hands_down r 1 0 1 0 00137097
+handsomely r 2 0 2 0 00320896 00321022
+haphazard r 1 0 1 0 00321129
+haphazardly r 1 0 1 0 00321129
+haply r 1 0 1 0 00321399
+haptically r 1 0 1 0 00184093
+harmfully r 1 1 ! 1 0 00283288
+harmlessly r 1 1 ! 1 0 00283394
+harmonically r 1 0 1 0 00125136
+harmoniously r 1 0 1 0 00321503
+harshly r 2 0 2 0 00318808 00321690
+hatefully r 1 0 1 0 00322089
+haughtily r 1 0 1 0 00162847
+hazardously r 1 0 1 0 00083444
+hazily r 2 0 2 0 00322145 00322232
+head-to-head r 1 0 1 0 00369988
+head_and_shoulders_above r 1 0 1 0 00044268
+head_over_heels r 1 0 1 0 00152477
+healthily r 1 0 1 0 00170170
+heaps r 1 1 ;u 1 0 00322804
+heart_and_soul r 1 0 1 0 00153113
+heartlessly r 1 0 1 0 00322881
+heavenward r 1 0 1 0 00323197
+heavenwardly r 1 0 1 0 00323197
+heavenwards r 1 0 1 0 00323197
+hectically r 1 0 1 0 00314258
+heedfully r 1 1 ! 1 0 00142988
+heedlessly r 1 0 1 0 00152947
+heels_over_head r 1 0 1 0 00152477
+heinously r 1 0 1 0 00323431
+hell-for-leather r 1 0 1 0 00100968
+hellishly r 1 1 ;u 1 0 00123267
+helpfully r 1 1 ! 1 0 00171313
+helplessly r 1 0 1 0 00192860
+here_and_there r 1 0 1 0 00067726
+hereinbefore r 1 0 1 0 00323796
+hereunder r 1 0 1 0 00031131
+heroically r 1 0 1 0 00324347
+hideously r 1 0 1 0 00324463
+hierarchically r 1 0 1 0 00235877
+hieroglyphically r 1 0 1 0 00131971
+high-handedly r 1 0 1 0 00324997
+high-mindedly r 1 0 1 0 00325122
+high_and_low r 1 0 1 0 00023888
+hilariously r 1 0 1 0 00170271
+hinderingly r 1 0 1 0 00374470
+histologically r 1 0 1 0 00083002
+historically r 2 0 2 0 00102259 00102358
+hither_and_thither r 1 0 1 0 00460214
+hoarsely r 1 0 1 0 00325760
+homeostatically r 1 0 1 0 00132066
+homogeneously r 1 0 1 0 00456090
+honorably r 1 1 ! 1 0 00287927
+honourably r 1 1 ! 1 0 00287927
+hook_line_and_sinker r 1 0 1 0 00153225
+hopefully r 2 1 ! 2 0 00185435 00185531
+hopelessly r 3 2 ! ;u 3 0 00185661 00185864 00289954
+horizontally r 1 0 1 0 00325865
+horridly r 1 0 1 0 00324463
+horrifyingly r 1 0 1 0 00228061
+horticulturally r 1 0 1 0 00132179
+hospitably r 1 1 ! 1 0 00326171
+hostilely r 1 0 1 0 00223488
+huffily r 1 0 1 0 00326533
+humanely r 1 1 ! 1 0 00326717
+humbly r 1 0 1 0 00102881
+humiliatingly r 1 0 1 0 00194989
+humorlessly r 1 1 ! 1 0 00327129
+humorously r 1 1 ! 1 0 00326959
+humourlessly r 1 1 ! 1 0 00327129
+hungrily r 1 0 1 0 00327383
+huskily r 1 0 1 0 00325760
+hydraulically r 1 0 1 0 00327510
+hydraulicly r 1 0 1 0 00327510
+hygienically r 1 1 ! 1 0 00327687
+hypnotically r 1 0 1 0 00464198
+hypocritically r 1 0 1 0 00287682
+hypothalamically r 1 0 1 0 00086745
+hypothetically r 1 0 1 0 00158594
+hysterically r 1 0 1 0 00327945
+i.e. r 1 0 1 0 00178022
+id_est r 1 0 1 0 00178022
+identically r 1 0 1 0 00328271
+identifiably r 1 0 1 0 00328404
+ideographically r 1 0 1 0 00115955
+ideologically r 1 0 1 0 00328505
+idiomatically r 1 0 1 0 00328613
+idiotically r 1 0 1 0 00328714
+idolatrously r 1 0 1 0 00329089
+idyllically r 1 0 1 0 00116054
+ie r 1 0 1 0 00178022
+if_not r 1 0 1 0 00042421
+ignobly r 1 0 1 0 00278146
+ignominiously r 1 0 1 0 00286515
+ignorantly r 1 0 1 0 00329206
+illegally r 1 1 ! 1 0 00143735
+illegibly r 1 1 ! 1 0 00329453
+illegitimately r 2 1 ! 2 0 00329593 00329903
+illiberally r 1 0 1 0 00345674
+illicitly r 2 1 ! 2 0 00143735 00329903
+illogically r 1 1 ! 1 0 00330414
+illustriously r 1 0 1 0 00330652
+imaginatively r 1 1 ! 1 0 00192984
+immaculately r 1 0 1 0 00330785
+immaturely r 1 1 ! 1 0 00348412
+immeasurably r 2 1 ! 2 0 00206737 00360619
+imminently r 1 0 1 0 00452420
+immoderately r 2 1 ! 2 0 00033693 00198410
+immodestly r 1 1 ! 1 0 00220869
+immorally r 1 1 ! 1 0 00331298
+immovably r 1 0 1 0 00330957
+immunologically r 1 0 1 0 00464259
+immutably r 1 0 1 0 00436001
+impalpably r 1 0 1 0 00344672
+impartially r 1 0 1 0 00331076
+impassively r 1 0 1 0 00331450
+impatiently r 1 1 ! 1 0 00161841
+impeccably r 1 0 1 0 00170983
+impenitently r 1 1 ! 1 0 00331553
+imperatively r 1 0 1 0 00331829
+imperceptibly r 1 1 ! 1 0 00331922
+imperially r 1 0 1 0 00132350
+imperiously r 1 0 1 0 00332286
+impermissibly r 1 1 ! 1 0 00080418
+impersonally r 2 1 ! 2 0 00332379 00332515
+impetuously r 1 0 1 0 00333157
+impiously r 1 0 1 0 00333317
+impishly r 1 0 1 0 00333429
+implausibly r 1 1 ! 1 0 00271360
+impolitely r 1 1 ! 1 0 00201164
+importantly r 2 0 2 0 00333957 00334124
+imposingly r 1 1 ! 1 0 00196907
+impossibly r 1 1 ! 1 0 00275447
+impotently r 1 0 1 0 00192860
+impracticably r 1 0 1 0 00334384
+imprecisely r 1 1 ! 1 0 00334658
+impregnably r 1 0 1 0 00334930
+impressively r 1 1 ! 1 0 00196907
+improbably r 1 1 ! 1 0 00271360
+improperly r 1 1 ! 1 0 00181960
+improvidently r 1 1 ! 1 0 00335093
+imprudently r 1 1 ! 1 0 00335643
+impulsively r 1 0 1 0 00333157
+in_a_beastly_manner r 1 0 1 0 00258337
+in_a_broad_way r 1 0 1 0 00097370
+in_a_low_voice r 1 0 1 0 00237613
+in_a_nutshell r 1 0 1 0 00266510
+in_a_pig's_eye r 1 1 ;u 1 0 00153433
+in_a_similar_way r 1 0 1 0 00154265
+in_a_way r 1 0 1 0 00137800
+in_absentia r 1 0 1 0 00140166
+in_an_elaborate_way r 1 0 1 0 00078525
+in_and_of_itself r 1 0 1 0 00034307
+in_apposition r 1 0 1 0 00113441
+in_both_ears r 1 1 ! 1 0 00192189
+in_case r 1 0 1 0 00153507
+in_chorus r 1 0 1 0 00221660
+in_circles r 1 0 1 0 00153336
+in_common r 1 0 1 0 00455010
+in_detail r 1 0 1 0 00182951
+in_due_course r 1 0 1 0 00153975
+in_due_season r 1 0 1 0 00153975
+in_due_time r 1 0 1 0 00153975
+in_effect r 1 0 1 0 00055815
+in_essence r 1 0 1 0 00452706
+in_everyone's_thoughts r 1 0 1 0 00155871
+in_extremis r 1 0 1 0 00239500
+in_fact r 1 0 1 0 00138109
+in_fiscal_matters r 1 0 1 0 00122120
+in_flight r 1 0 1 0 00456207
+in_full_action r 1 0 1 0 00154150
+in_full_swing r 1 0 1 0 00154150
+in_good_spirits r 1 0 1 0 00218448
+in_good_time r 1 0 1 0 00153975
+in_great_confusion r 1 0 1 0 00152477
+in_hand r 1 1 ! 1 0 00137591
+in_her_own_right r 1 0 1 0 00204920
+in_his_own_right r 1 0 1 0 00204920
+in_its_own_right r 1 0 1 0 00204920
+in_kind r 1 0 1 0 00154265
+in_line r 1 0 1 0 00154379
+in_loco_parentis r 1 0 1 0 00236225
+in_low_spirits r 1 0 1 0 00274087
+in_name r 1 0 1 0 00154490
+in_name_only r 1 0 1 0 00154490
+in_no_time r 1 0 1 0 00154607
+in_on r 1 0 1 0 00109025
+in_one's_own_right r 1 0 1 0 00204920
+in_one_ear r 1 1 ! 1 0 00192336
+in_other_words r 1 0 1 0 00167050
+in_passing r 1 0 1 0 00155085
+in_perpetuity r 2 0 2 0 00081296 00081408
+in_place r 1 0 1 0 00236340
+in_point_of_fact r 1 0 1 0 00138109
+in_practice r 1 0 1 0 00155221
+in_principle r 1 0 1 0 00452706
+in_return r 1 0 1 0 00367423
+in_short_order r 1 0 1 0 00155574
+in_situ r 1 0 1 0 00236340
+in_so_far r 1 0 1 0 00092185
+in_someone's_way r 1 0 1 0 00038732
+in_stride r 1 0 1 0 00218448
+in_the_adjacent_apartment r 1 0 1 0 00221401
+in_the_adjacent_house r 1 0 1 0 00221401
+in_the_air r 1 0 1 0 00155871
+in_the_bargain r 1 0 1 0 00074789
+in_the_end r 1 0 1 0 00156091
+in_the_least r 2 0 2 0 00052719 00139902
+in_the_long_run r 1 0 1 0 00156091
+in_the_lurch r 1 1 ;u 1 0 00035400
+in_the_midst r 1 0 1 0 00239560
+in_the_nick_of_time r 1 0 1 0 00156218
+in_the_same_breath r 1 0 1 0 00156344
+in_the_way r 1 0 1 0 00038732
+in_theory r 1 0 1 0 00452706
+in_time r 1 0 1 0 00156457
+in_toto r 1 0 1 0 00139777
+in_turn r 1 0 1 0 00168015
+in_unison r 2 0 2 0 00221583 00221660
+in_utero r 1 0 1 0 00035929
+in_vacuo r 2 0 2 0 00036029 00036076
+in_vitro r 1 0 1 0 00464338
+in_vivo r 1 0 1 0 00169777
+in_writing r 1 0 1 0 00227326
+inaccessibly r 1 0 1 0 00189046
+inaccurately r 1 1 ! 1 0 00189261
+inadequately r 1 1 ! 1 0 00335922
+inadvisably r 1 1 ! 1 0 00304005
+inalienably r 1 0 1 0 00129769
+inanely r 1 0 1 0 00186918
+inappropriately r 1 1 ! 1 0 00129617
+inarticulately r 2 1 ! 2 0 00247889 00298915
+inaudibly r 1 1 ! 1 0 00248297
+inaugurally r 1 0 1 0 00453381
+inauspiciously r 1 1 ! 1 0 00200294
+incautiously r 1 1 ! 1 0 00260036
+incessantly r 1 0 1 0 00260376
+incestuously r 1 0 1 0 00132431
+incisively r 1 0 1 0 00336080
+incoherently r 1 1 ! 1 0 00263454
+incomparably r 1 1 ! 1 0 00336458
+incompatibly r 1 1 ! 1 0 00264536
+incompetently r 1 1 ! 1 0 00172464
+incompletely r 1 0 1 0 00146902
+inconceivably r 1 0 1 0 00132506
+inconclusively r 1 1 ! 1 0 00086172
+incongruously r 1 0 1 0 00336762
+inconsequentially r 1 1 ! 1 0 00270448
+inconsequently r 1 1 ! 1 0 00270448
+inconsiderately r 1 1 ! 1 0 00170480
+inconsistently r 1 1 ! 1 0 00112867
+inconspicuously r 1 1 ! 1 0 00337132
+incontrovertibly r 1 0 1 0 00282268
+inconveniently r 1 1 ! 1 0 00183199
+incredibly r 2 1 ! 2 0 00029987 00271360
+incredulously r 1 1 ! 1 0 00271786
+incriminatingly r 1 0 1 0 00337286
+incurably r 2 0 2 0 00337355 00337445
+indecently r 1 1 ! 1 0 00227947
+indecisively r 2 1 ! 2 0 00273562 00273874
+indecorously r 1 1 ! 1 0 00279231
+indefatigably r 1 0 1 0 00049005
+indefinitely r 1 0 1 0 00188499
+indelibly r 1 0 1 0 00337536
+independently r 2 0 2 0 00168187 00406916
+indescribably r 1 0 1 0 00337719
+indeterminably r 1 0 1 0 00337967
+indigenously r 1 0 1 0 00054433
+indirectly r 1 1 ! 1 0 00054320
+indiscreetly r 1 1 ! 1 0 00338679
+indiscriminately r 1 0 1 0 00391941
+indistinctly r 1 0 1 0 00195461
+individualistically r 1 0 1 0 00054496
+indolently r 1 0 1 0 00338842
+indubitably r 1 0 1 0 00338943
+ineffably r 1 0 1 0 00337719
+ineffectively r 1 1 ! 1 0 00297698
+ineffectually r 1 1 ! 1 0 00297336
+inefficaciously r 1 1 ! 1 0 00297698
+inefficiently r 1 1 ! 1 0 00217998
+inelegantly r 1 1 ! 1 0 00298702
+ineloquently r 1 1 ! 1 0 00298915
+ineluctably r 1 0 1 0 00192717
+ineptly r 2 0 2 0 00210072 00210199
+inequitably r 1 1 ! 1 0 00300752
+inescapably r 1 0 1 0 00192717
+inevitably r 1 0 1 0 00192717
+inexactly r 1 1 ! 1 0 00334658
+inexcusably r 2 1 ! 2 0 00220355 00303648
+inexhaustibly r 1 0 1 0 00049005
+inexorably r 1 0 1 0 00200899
+inexpediently r 1 1 ! 1 0 00304098
+inexpertly r 1 0 1 0 00253233
+inexpressively r 1 1 ! 1 0 00305094
+inextricably r 1 0 1 0 00339568
+infectiously r 1 0 1 0 00277131
+infelicitously r 1 1 ! 1 0 00309049
+infernally r 1 1 ;u 1 0 00123267
+infinitely r 2 1 ! 2 0 00206470 00206737
+inflexibly r 1 1 ! 1 0 00310805
+influentially r 1 0 1 0 00339739
+informally r 2 1 ! 2 0 00173166 00263584
+informatively r 1 1 ! 1 0 00339798
+infrequently r 1 1 ! 1 0 00340121
+ingeniously r 1 0 1 0 00340386
+ingenuously r 1 0 1 0 00253112
+ingloriously r 1 0 1 0 00286515
+inherently r 1 0 1 0 00340733
+inhospitably r 1 1 ! 1 0 00326298
+inhumanely r 1 1 ! 1 0 00326834
+inimitably r 1 0 1 0 00340907
+iniquitously r 1 0 1 0 00341027
+injudiciously r 1 1 ! 1 0 00349356
+injuriously r 1 0 1 0 00116231
+innately r 1 0 1 0 00341168
+innocently r 2 0 2 0 00341286 00341384
+inoffensively r 1 1 ! 1 0 00281013
+inorganically r 1 1 ! 1 0 00105832
+inquiringly r 1 0 1 0 00341840
+insanely r 1 1 ! 1 0 00075228
+insatiably r 2 0 2 0 00341966 00342135
+inscriptively r 1 0 1 0 00057636
+inscrutably r 1 0 1 0 00057703
+insecticidally r 1 0 1 0 00057766
+insecurely r 2 1 ! 2 0 00342651 00342963
+insensately r 1 0 1 0 00057834
+insensitively r 1 1 ! 1 0 00343270
+inseparably r 1 1 ! 1 0 00406407
+inside_out r 2 0 2 0 00155662 00155765
+insidiously r 1 0 1 0 00343434
+insincerely r 1 1 ! 1 0 00343780
+insipidly r 1 0 1 0 00344224
+insistently r 1 0 1 0 00132596
+insofar r 1 0 1 0 00092185
+insolently r 1 0 1 0 00325443
+insomuch r 1 0 1 0 00344313
+inspirationally r 1 0 1 0 00344380
+instinctively r 1 0 1 0 00229414
+institutionally r 1 0 1 0 00132657
+instructively r 1 1 ! 1 0 00339798
+insubstantially r 1 0 1 0 00344672
+insufficiently r 1 1 ! 1 0 00135010
+insultingly r 1 0 1 0 00344789
+insuperably r 1 0 1 0 00344912
+integrally r 1 0 1 0 00452479
+intellectually r 1 0 1 0 00175829
+intelligently r 1 1 ! 1 0 00187016
+intensely r 1 0 1 0 00177424
+intensively r 1 0 1 0 00129342
+intently r 1 0 1 0 00083964
+inter_alia r 1 0 1 0 00236494
+interchangeably r 1 0 1 0 00345048
+interdepartmental r 1 0 1 0 00345162
+interestingly r 1 1 ! 1 0 00197910
+intermediately r 1 0 1 0 00345274
+interminably r 1 0 1 0 00260644
+intermittently r 1 0 1 0 00345495
+internationally r 1 0 1 0 00104740
+interracially r 1 0 1 0 00126202
+interrogatively r 1 0 1 0 00345608
+into_the_bargain r 1 0 1 0 00074789
+into_the_wind r 1 1 ! 1 0 00087650
+intolerably r 1 1 ! 1 0 00051731
+intolerantly r 2 1 ! 2 0 00345674 00345937
+intractably r 1 0 1 0 00054571
+intradermally r 1 0 1 0 00086863
+intramuscularly r 1 0 1 0 00086917
+intransitively r 1 1 ! 1 0 00346159
+intravenously r 1 0 1 0 00346316
+intrepidly r 1 1 ! 1 0 00185061
+intricately r 1 0 1 0 00078525
+intrinsically r 1 0 1 0 00034307
+intuitively r 1 0 1 0 00346424
+inventively r 1 0 1 0 00346624
+inveterate r 1 0 1 0 00130845
+invidiously r 1 0 1 0 00346771
+invincibly r 1 0 1 0 00346841
+invisibly r 1 1 ! 1 0 00346942
+invitingly r 1 0 1 0 00181848
+involuntarily r 1 1 ! 1 0 00213247
+ipso_facto r 1 0 1 0 00236612
+irately r 1 0 1 0 00347188
+ironically r 2 0 2 0 00347274 00347368
+irrationally r 1 1 ! 1 0 00171886
+irregardless r 1 1 ;u 1 0 00110885
+irregularly r 4 1 ! 4 0 00177103 00181214 00302210 00302433
+irrelevantly r 1 1 ! 1 0 00347496
+irreparably r 1 0 1 0 00464470
+irreproachably r 1 0 1 0 00450594
+irresolutely r 1 1 ! 1 0 00222916
+irrespective r 1 0 1 0 00110690
+irresponsibly r 1 1 ! 1 0 00099681
+irretrievably r 1 0 1 0 00347631
+irreverently r 2 1 ! 2 0 00347726 00347961
+irreversibly r 1 0 1 0 00348099
+irrevocably r 1 0 1 0 00116292
+irritably r 1 0 1 0 00173509
+irritatingly r 1 0 1 0 00464561
+isotropically r 1 0 1 0 00009982
+jaggedly r 1 0 1 0 00396597
+jarringly r 1 0 1 0 00348215
+jealously r 2 0 2 0 00277682 00348326
+jeeringly r 1 0 1 0 00316443
+jejunely r 1 1 ! 1 0 00348412
+jerkily r 2 0 2 0 00348659 00418932
+jestingly r 1 0 1 0 00348764
+jocosely r 1 0 1 0 00348907
+jocular r 1 0 1 0 00348907
+jokingly r 2 0 2 0 00079272 00348764
+journalistically r 1 0 1 0 00349021
+jovially r 1 0 1 0 00349140
+joyfully r 1 1 ! 1 0 00316808
+joylessly r 1 1 ! 1 0 00316956
+joyously r 1 1 ! 1 0 00316808
+judicially r 2 0 2 0 00132747 00464624
+judiciously r 1 1 ! 1 0 00349228
+jurisprudentially r 1 0 1 0 00232483
+just_as r 1 0 1 0 00015695
+just_in_case r 1 0 1 0 00153507
+just_in_time r 1 0 1 0 00156218
+just_right r 1 0 1 0 00160485
+just_so r 1 0 1 0 00156847
+just_then r 1 0 1 0 00098393
+justifiably r 1 1 ! 1 0 00220254
+keenly r 1 0 1 0 00349506
+killingly r 1 0 1 0 00349622
+kinaesthetically r 1 0 1 0 00183941
+kinesthetically r 1 0 1 0 00183941
+knee-deep r 1 0 1 0 00239058
+knee-high r 1 0 1 0 00239058
+laboriously r 1 0 1 0 00349702
+lackadaisically r 1 0 1 0 00349891
+laconically r 1 0 1 0 00212892
+lamely r 1 0 1 0 00350020
+lamentably r 1 0 1 0 00086284
+lang_syne r 1 0 1 0 00020259
+langsyne r 1 1 ;r 1 0 00350252
+languidly r 1 0 1 0 00350355
+languorously r 1 0 1 0 00350467
+largo r 1 1 ;c 1 0 00060781
+lasciviously r 1 0 1 0 00350753
+last_but_not_least r 1 0 1 0 00061191
+last_not_least r 1 0 1 0 00061191
+lastingly r 1 0 1 0 00061327
+laterally r 2 1 ;c 2 0 00350829 00350988
+laudably r 1 0 1 0 00201314
+laughably r 1 0 1 0 00351221
+laughingly r 1 0 1 0 00202291
+lavishly r 1 0 1 0 00305367
+lawfully r 2 1 ! 2 0 00232237 00330104
+lawlessly r 1 1 ! 1 0 00143735
+laxly r 1 0 1 0 00351403
+lazily r 1 0 1 0 00351636
+learnedly r 1 0 1 0 00301018
+least_of_all r 1 0 1 0 00104439
+legally r 2 1 ! 2 0 00116355 00232237
+legibly r 1 1 ! 1 0 00329329
+legislatively r 1 0 1 0 00120359
+legitimately r 2 1 ! 2 0 00329755 00330104
+lengthily r 1 0 1 0 00060851
+leniently r 1 0 1 0 00351403
+lento r 1 0 1 0 00352574
+let_alone r 1 0 1 0 00058736
+lethargically r 1 0 1 0 00352651
+lewdly r 1 0 1 0 00352789
+lexically r 1 0 1 0 00126811
+liberally r 2 0 2 0 00182462 00182589
+licentiously r 1 0 1 0 00352949
+licitly r 1 1 ! 1 0 00330104
+lickety_cut r 1 0 1 0 00156938
+lickety_split r 1 0 1 0 00156938
+lifelessly r 2 0 2 0 00353133 00353230
+light-handedly r 1 0 1 0 00354739
+light-heartedly r 1 0 1 0 00354805
+lightsomely r 1 0 1 0 00354805
+like_an_expert r 1 1 ! 1 0 00197518
+like_blue_murder r 1 0 1 0 00079788
+like_clockwork r 1 1 ;u 1 0 00157043
+like_crazy r 1 1 ;u 1 0 00157178
+like_hell r 2 1 ;u 2 0 00157178 00157483
+like_kings r 1 0 1 0 00117530
+like_mad r 1 1 ;u 1 0 00157178
+like_royalty r 1 0 1 0 00117530
+like_sin r 1 1 ;u 1 0 00157178
+like_the_devil r 1 1 ;u 1 0 00157178
+like_thunder r 1 1 ;u 1 0 00157178
+limitedly r 1 0 1 0 00121562
+limnologically r 1 0 1 0 00355094
+limpidly r 1 0 1 0 00353506
+limply r 1 0 1 0 00355174
+lineally r 1 0 1 0 00355269
+linearly r 1 1 ! 1 0 00120529
+lingually r 1 0 1 0 00121618
+linguistically r 2 0 2 0 00121618 00121880
+lispingly r 1 0 1 0 00355688
+listlessly r 1 0 1 0 00355759
+literally r 2 2 ;u ! 2 0 00103792 00309625
+little_by_little r 1 0 1 0 00145095
+live r 1 0 1 0 00239279
+lividly r 1 0 1 0 00355855
+loftily r 1 0 1 0 00355907
+logarithmically r 1 0 1 0 00355987
+logically r 2 1 ! 2 0 00330294 00330537
+logogrammatically r 1 0 1 0 00464683
+long-windedly r 1 0 1 0 00445028
+long_ago r 1 0 1 0 00020259
+long_since r 1 0 1 0 00020259
+longer r 1 0 1 0 00356127
+longest r 1 0 1 0 00356200
+longingly r 1 0 1 0 00353333
+longitudinally r 2 0 2 0 00120653 00352460
+lopsidedly r 1 0 1 0 00222259
+loquaciously r 1 0 1 0 00356274
+loweringly r 1 0 1 0 00459769
+lowest r 1 0 1 0 00356572
+loyally r 1 1 ! 1 0 00288497
+lucidly r 1 0 1 0 00353506
+ludicrously r 1 0 1 0 00351221
+lugubriously r 1 0 1 0 00356701
+lukewarmly r 1 0 1 0 00353642
+luridly r 1 0 1 0 00356850
+lusciously r 1 0 1 0 00356981
+lustfully r 1 0 1 0 00357141
+lustily r 1 0 1 0 00226861
+luxuriantly r 2 0 2 0 00353777 00353947
+lyrically r 1 0 1 0 00357239
+macroscopically r 1 0 1 0 00103680
+madly r 2 1 ! 2 0 00075228 00454696
+magically r 1 0 1 0 00120747
+magisterially r 2 0 2 0 00222598 00284590
+magna_cum_laude r 1 0 1 0 00267546
+magnanimously r 1 0 1 0 00357351
+magnetically r 2 0 2 0 00083143 00457240
+magnificently r 1 0 1 0 00318542
+magniloquently r 1 0 1 0 00357473
+majestically r 1 0 1 0 00357606
+maladroitly r 1 1 ! 1 0 00052318
+malevolently r 1 1 ! 1 0 00357828
+maliciously r 1 0 1 0 00186250
+malignantly r 1 0 1 0 00357936
+malignly r 1 0 1 0 00358024
+man-to-man r 1 0 1 0 00054634
+manageably r 1 1 ! 1 0 00354071
+managerially r 1 0 1 0 00358087
+mandatorily r 1 0 1 0 00265235
+manfully r 1 1 ! 1 0 00354319
+mangily r 1 0 1 0 00358149
+maniacally r 1 0 1 0 00358201
+manipulatively r 1 0 1 0 00358327
+manly r 1 1 ! 1 0 00354319
+manually r 1 0 1 0 00116427
+marginally r 1 0 1 0 00083241
+markedly r 1 0 1 0 00150278
+martially r 1 0 1 0 00452538
+masochistically r 1 0 1 0 00358403
+massively r 1 0 1 0 00358528
+masterfully r 1 0 1 0 00358679
+materialistically r 1 0 1 0 00358832
+mathematically r 1 0 1 0 00060120
+matrilineally r 1 0 1 0 00355382
+maturely r 1 1 ! 1 0 00348549
+mawkishly r 1 0 1 0 00359082
+maximally r 1 1 ! 1 0 00359208
+meagerly r 1 1 ! 1 0 00359506
+meagrely r 1 1 ! 1 0 00359506
+meanderingly r 1 0 1 0 00359947
+meaningfully r 1 0 1 0 00360058
+meanspiritedly r 1 0 1 0 00360553
+meanwhile r 1 0 1 0 00060440
+mechanically r 2 0 2 0 00106219 00106325
+mechanistically r 1 0 1 0 00360966
+medially r 1 0 1 0 00361154
+medically r 1 0 1 0 00116498
+medicinally r 1 0 1 0 00116620
+meditatively r 1 0 1 0 00361251
+meekly r 2 0 2 0 00102881 00102972
+mellow r 1 1 ;u 1 0 00361431
+mellowingly r 1 0 1 0 00458630
+mellowly r 1 1 ;u 1 0 00361431
+melodically r 1 0 1 0 00125041
+melodiously r 1 1 ! 1 0 00361524
+melodramatically r 2 0 2 0 00361755 00361883
+memorably r 1 1 ! 1 0 00362008
+menacingly r 1 0 1 0 00362221
+mendaciously r 1 1 ! 1 0 00362356
+menially r 1 0 1 0 00362724
+mercifully r 1 0 1 0 00179119
+mercilessly r 1 0 1 0 00362778
+meretriciously r 1 0 1 0 00362956
+meritoriously r 1 0 1 0 00363073
+messily r 1 0 1 0 00363176
+metabolically r 1 0 1 0 00106451
+metaphorically r 1 0 1 0 00125425
+metaphysically r 1 0 1 0 00124885
+meteorologically r 1 0 1 0 00124779
+methodically r 1 0 1 0 00162211
+methodologically r 1 0 1 0 00363467
+meticulously r 1 0 1 0 00180300
+metonymically r 1 0 1 0 00124979
+metrically r 1 0 1 0 00363568
+microscopically r 2 0 2 0 00073359 00073576
+midmost r 1 0 1 0 00239560
+midweek r 1 0 1 0 00364229
+mildly r 1 0 1 0 00031437
+millionfold r 1 0 1 0 00313724
+mincingly r 1 0 1 0 00364289
+mindfully r 1 1 ! 1 0 00142988
+mindlessly r 2 0 2 0 00363773 00363921
+minimally r 1 1 ! 1 0 00359355
+ministerially r 1 0 1 0 00364387
+miraculously r 1 0 1 0 00364716
+misleadingly r 1 0 1 0 00076196
+mistily r 2 0 2 0 00213853 00364984
+mistrustfully r 1 1 ! 1 0 00292229
+mockingly r 2 0 2 0 00275912 00316443
+moderately r 1 1 ! 1 0 00198293
+modestly r 1 1 ! 1 0 00220701
+modishly r 1 0 1 0 00004798
+moistly r 1 0 1 0 00272874
+molto r 1 1 ;c 1 0 00365088
+momentously r 1 0 1 0 00365161
+monaurally r 1 1 ! 1 0 00192336
+monolingually r 1 0 1 0 00193700
+monosyllabically r 1 0 1 0 00133303
+monotonously r 1 0 1 0 00365218
+monstrously r 3 0 3 0 00319652 00323431 00324463
+month_by_month r 1 0 1 0 00166063
+moodily r 1 0 1 0 00365387
+morbidly r 1 0 1 0 00365522
+mordaciously r 1 0 1 0 00092453
+morosely r 1 0 1 0 00365643
+morphologically r 1 0 1 0 00365728
+most_especially r 1 0 1 0 00140014
+most_importantly r 1 0 1 0 00140014
+motionlessly r 1 0 1 0 00366120
+mournfully r 1 0 1 0 00366393
+movingly r 1 0 1 0 00034097
+much_as r 1 0 1 0 00175321
+mulishly r 1 0 1 0 00184423
+multifariously r 1 0 1 0 00048802
+multilaterally r 1 1 ! 1 0 00233569
+multiplicatively r 1 0 1 0 00077619
+multiply r 1 1 ! 1 0 00077487
+mundanely r 2 0 2 0 00366501 00366612
+municipally r 1 0 1 0 00121110
+munificently r 1 0 1 0 00182462
+murderously r 2 0 2 0 00252218 00366712
+murkily r 2 0 2 0 00195573 00366846
+musically r 1 1 ! 1 0 00366927
+musicologically r 1 0 1 0 00124611
+musingly r 1 0 1 0 00367139
+mutatis_mutandis r 1 0 1 0 00237010
+mutely r 1 0 1 0 00104624
+mysteriously r 1 0 1 0 00272123
+mystically r 1 0 1 0 00124107
+naively r 1 0 1 0 00367693
+nakedly r 2 0 2 0 00367805 00367968
+narrow-mindedly r 1 1 ! 1 0 00368117
+nasally r 1 0 1 0 00132838
+nattily r 1 0 1 0 00368804
+nearby r 1 0 1 0 00066318
+nearer r 1 1 ;u 1 0 00369161
+nearest r 1 1 ;u 1 0 00369379
+nebulously r 1 0 1 0 00462637
+neck_and_neck r 1 0 1 0 00369988
+needlessly r 1 0 1 0 00181746
+nefariously r 1 0 1 0 00370166
+negatively r 2 0 2 0 00002300 00002385
+neglectfully r 1 0 1 0 00370291
+negligently r 1 0 1 0 00370353
+nem_con r 1 0 1 0 00099406
+nemine_contradicente r 1 0 1 0 00099406
+nervelessly r 1 0 1 0 00271135
+nervily r 1 0 1 0 00261530
+nervously r 2 0 2 0 00370444 00370665
+neurobiological r 1 0 1 0 00124387
+neurotically r 1 0 1 0 00370552
+next_door r 1 0 1 0 00221401
+nigher r 1 1 ;u 1 0 00369161
+nighest r 1 1 ;u 1 0 00369379
+nimbly r 1 0 1 0 00176267
+nip_and_tuck r 1 0 1 0 00369988
+no_doubt r 1 0 1 0 00139467
+no_end r 1 0 1 0 00157620
+no_longer r 1 1 ! 1 0 00029304
+no_matter r 1 0 1 0 00110690
+no_matter_what_happens r 1 0 1 0 00145870
+no_more r 1 1 ! 1 0 00029304
+nocturnally r 1 0 1 0 00132909
+noiselessly r 1 0 1 0 00418106
+noisily r 1 1 ! 1 0 00210871
+non-verbally r 1 0 1 0 00119894
+nonchalantly r 2 0 2 0 00224002 00271135
+noncompetitively r 1 1 ! 1 0 00224289
+noncomprehensively r 1 1 ! 1 0 00265155
+nonlexically r 1 0 1 0 00126890
+nonspecifically r 1 0 1 0 00039257
+nonstop r 1 0 1 0 00371878
+nonverbally r 1 0 1 0 00119894
+nonviolently r 1 1 ! 1 0 00205623
+nor'-nor'-east r 1 0 1 0 00373171
+nor'-nor'-west r 1 0 1 0 00373268
+north-northeast r 1 0 1 0 00373171
+north-northwest r 1 0 1 0 00373268
+nostalgically r 1 0 1 0 00371977
+not_by_a_blame_sight r 1 2 ! ;u 1 0 00053030
+not_by_a_long_sight r 1 2 ! ;u 1 0 00053030
+not_to_mention r 1 0 1 0 00058736
+notoriously r 1 0 1 0 00372137
+now_now r 1 0 1 0 00046838
+noxiously r 1 1 ! 1 0 00283288
+nutritionally r 1 0 1 0 00372300
+nuttily r 1 0 1 0 00278250
+o'clock r 1 0 1 0 00182859
+o.k. r 1 1 ;u 1 0 00013345
+obdurately r 1 0 1 0 00184423
+obediently r 1 1 ! 1 0 00289320
+objectionably r 1 0 1 0 00280843
+objectively r 1 1 ! 1 0 00373365
+obligatorily r 2 1 ! 2 0 00265235 00375643
+obnoxiously r 1 0 1 0 00280843
+obscenely r 2 0 2 0 00352789 00373603
+obscurely r 1 0 1 0 00227699
+obsequiously r 1 0 1 0 00373690
+observantly r 1 0 1 0 00373822
+observingly r 1 0 1 0 00373822
+obsessionally r 1 0 1 0 00224430
+obsessively r 1 0 1 0 00224430
+obstinately r 1 0 1 0 00184423
+obstructively r 1 0 1 0 00374470
+obtrusively r 1 1 ! 1 0 00374029
+odiously r 1 0 1 0 00283118
+of_each_person r 1 0 1 0 00452856
+off-the-clock r 1 0 1 0 00240129
+off_and_on r 1 0 1 0 00157705
+off_the_cuff r 1 0 1 0 00157805
+off_the_record r 1 0 1 0 00158071
+offensively r 3 1 ! 3 0 00280635 00280843 00281193
+officiously r 1 0 1 0 00374324
+offside r 1 0 1 0 00374619
+offstage r 2 1 ! 2 0 00239827 00239906
+oftener r 1 0 1 0 00033036
+okay r 1 1 ;u 1 0 00013345
+ominously r 1 0 1 0 00219174
+on_a_regular_basis r 1 1 ! 1 0 00181072
+on_air r 1 0 1 0 00258703
+on_all_fours r 1 0 1 0 00158173
+on_an_irregular_basis r 1 1 ! 1 0 00181214
+on_and_off r 1 0 1 0 00157705
+on_approval r 1 0 1 0 00158394
+on_average r 1 0 1 0 00158285
+on_camera r 1 0 1 0 00464789
+on_earth r 1 0 1 0 00459301
+on_faith r 1 0 1 0 00158505
+on_one_hand r 1 1 ! 1 0 00111938
+on_paper r 1 0 1 0 00227326
+on_request r 1 0 1 0 00148786
+on_the_average r 1 0 1 0 00158285
+on_the_coattails r 1 0 1 0 00111499
+on_the_fly r 1 0 1 0 00159097
+on_the_one_hand r 1 1 ! 1 0 00111938
+on_the_other_hand r 1 1 ! 1 0 00111719
+on_the_side r 1 0 1 0 00224990
+on_the_spot r 3 0 3 0 00159197 00159348 00159507
+on_the_way r 1 0 1 0 00159793
+on_the_wing r 1 0 1 0 00456207
+on_time r 1 0 1 0 00159927
+once_and_for_all r 1 1 ! 1 0 00086037
+one-on-one r 1 0 1 0 00041591
+one-sidedly r 1 1 ! 1 0 00233399
+one_after_another r 1 0 1 0 00457017
+one_at_a_time r 1 0 1 0 00457017
+one_by_one r 2 0 2 0 00145474 00457017
+one_one's_coattails r 1 0 1 0 00111499
+onerously r 1 0 1 0 00374694
+only_too r 1 0 1 0 00230703
+onshore r 1 1 ! 1 0 00130007
+onstage r 1 1 ! 1 0 00240027
+opaquely r 1 0 1 0 00374751
+operationally r 1 0 1 0 00374849
+operatively r 1 0 1 0 00127373
+opportunely r 1 1 ! 1 0 00341697
+oppositely r 1 0 1 0 00158898
+oppressively r 1 0 1 0 00375019
+optically r 1 0 1 0 00123709
+optimally r 1 0 1 0 00375129
+optimistically r 1 1 ! 1 0 00375202
+optionally r 1 1 ! 1 0 00375531
+opulently r 1 0 1 0 00375758
+orad r 1 1 ! 1 0 00161233
+organically r 3 1 ! 3 0 00105721 00105954 00106075
+organizationally r 1 0 1 0 00375895
+ornamentally r 1 0 1 0 00191845
+ornately r 1 0 1 0 00191923
+osmotically r 1 0 1 0 00376018
+ostentatiously r 1 0 1 0 00376076
+out_and_away r 1 0 1 0 00044086
+out_of r 1 0 1 0 00214890
+out_of_hand r 1 1 ! 1 0 00137683
+out_of_nothing r 1 0 1 0 00160012
+out_of_place r 1 0 1 0 00461142
+out_of_sight r 1 0 1 0 00461004
+out_of_the_blue r 1 0 1 0 00037907
+out_of_the_way r 6 0 6 0 00038051 00038182 00038300 00038398 00038558 00038616
+out_of_thin_air r 1 0 1 0 00160012
+out_of_view r 1 0 1 0 00461004
+out_of_wedlock r 2 1 ! 2 0 00160141 00329593
+outlandishly r 1 0 1 0 00376258
+outrageously r 2 0 2 0 00109421 00109538
+outside_marriage r 1 0 1 0 00160141
+outspokenly r 1 0 1 0 00376376
+outstandingly r 1 0 1 0 00458153
+over_and_over r 1 0 1 0 00164922
+over_and_over_again r 1 0 1 0 00164922
+over_here r 1 0 1 0 00241239
+overbearingly r 1 0 1 0 00376506
+owlishly r 1 0 1 0 00377118
+p.m. r 1 1 ;c 1 0 00231829
+pacifically r 1 0 1 0 00379154
+pacifistically r 1 0 1 0 00377232
+painfully r 1 0 1 0 00106842
+painlessly r 1 1 ! 1 0 00460632
+painstakingly r 1 0 1 0 00377336
+palatably r 1 1 ! 1 0 00377509
+palely r 2 0 2 0 00377704 00377828
+pallidly r 1 0 1 0 00377828
+palmately r 1 0 1 0 00021015
+palpably r 1 0 1 0 00150385
+par_excellence r 1 0 1 0 00237104
+paradoxically r 1 0 1 0 00021090
+parasitically r 1 0 1 0 00021220
+pardonably r 1 1 ! 1 0 00303458
+parentally r 1 0 1 0 00377951
+parenterally r 1 0 1 0 00378009
+parenthetically r 1 0 1 0 00378124
+pari_passu r 1 0 1 0 00237217
+parochially r 1 0 1 0 00378266
+part-time r 1 1 ! 1 0 00233061
+passionately r 2 0 2 0 00032782 00193801
+passively r 1 1 ! 1 0 00074318
+patchily r 1 0 1 0 00378458
+paternally r 1 0 1 0 00378502
+pathetically r 2 0 2 0 00378613 00378740
+pathogenically r 1 0 1 0 00021607
+pathologically r 1 0 1 0 00123389
+patiently r 1 1 ! 1 0 00161968
+patrilineally r 1 0 1 0 00355457
+patriotically r 1 1 ! 1 0 00378872
+patronisingly r 1 0 1 0 00268196
+patronizingly r 1 0 1 0 00268196
+peaceably r 1 0 1 0 00379154
+peacefully r 1 0 1 0 00102469
+pedagogically r 1 0 1 0 00284774
+pedantically r 1 0 1 0 00379390
+peevishly r 1 0 1 0 00379530
+pejoratively r 1 0 1 0 00379614
+pellucidly r 1 0 1 0 00353506
+penally r 1 0 1 0 00394103
+penetratingly r 1 0 1 0 00379716
+penetratively r 1 0 1 0 00379716
+penitentially r 1 1 ! 1 0 00331710
+penitently r 1 1 ! 1 0 00331710
+pensively r 1 0 1 0 00379851
+penuriously r 1 0 1 0 00379946
+per_capita r 1 0 1 0 00452856
+per_diem r 1 0 1 0 00231231
+per_se r 1 0 1 0 00034307
+perceptively r 1 0 1 0 00380032
+perceptually r 1 0 1 0 00380094
+peremptorily r 1 0 1 0 00331829
+perfidiously r 1 0 1 0 00380314
+perfunctorily r 1 0 1 0 00240639
+perilously r 1 0 1 0 00083444
+peripherally r 1 1 ! 1 0 00107109
+perkily r 1 0 1 0 00380434
+permissibly r 1 1 ! 1 0 00080326
+permissively r 1 0 1 0 00080264
+perniciously r 2 0 2 0 00255971 00343434
+perpendicularly r 1 0 1 0 00380537
+perpetually r 1 0 1 0 00209825
+perseveringly r 1 0 1 0 00251464
+persistently r 2 0 2 0 00251522 00380806
+person-to-person r 1 0 1 0 00041591
+perspicuously r 1 0 1 0 00353506
+persuasively r 1 0 1 0 00380935
+pertinaciously r 1 0 1 0 00381037
+pertinently r 1 0 1 0 00381168
+pervasively r 1 0 1 0 00381375
+perversely r 1 0 1 0 00228423
+pessimistically r 1 1 ! 1 0 00375367
+pettily r 1 0 1 0 00381435
+pharmacologically r 1 0 1 0 00381484
+phenomenally r 1 0 1 0 00381623
+philanthropically r 1 0 1 0 00381724
+philatelically r 1 0 1 0 00381794
+philosophically r 2 0 2 0 00123170 00453151
+phlegmatically r 1 0 1 0 00381915
+phonemic r 1 0 1 0 00122561
+phonetically r 1 0 1 0 00122484
+photoelectrically r 1 0 1 0 00113741
+photographically r 1 0 1 0 00113846
+photometrically r 1 0 1 0 00113947
+phylogenetically r 1 0 1 0 00107257
+physically r 1 0 1 0 00107375
+physiologically r 1 0 1 0 00107472
+pictorially r 1 0 1 0 00021671
+picturesquely r 1 0 1 0 00382022
+piercingly r 1 0 1 0 00047004
+pig-headedly r 1 0 1 0 00184423
+piggishly r 1 0 1 0 00382515
+pinnately r 1 0 1 0 00382612
+piously r 1 0 1 0 00283701
+piquantly r 1 0 1 0 00382825
+piratically r 1 0 1 0 00384275
+piteously r 1 0 1 0 00384603
+pitiably r 1 0 1 0 00378740
+pitifully r 1 0 1 0 00384786
+pitilessly r 1 0 1 0 00362778
+placatingly r 1 0 1 0 00384903
+placidly r 2 0 2 0 00382942 00383068
+plaintively r 1 0 1 0 00385099
+plastically r 1 0 1 0 00206962
+playfully r 1 0 1 0 00385209
+please r 1 0 1 0 00007782
+pleasingly r 1 0 1 0 00385370
+pleasurably r 1 0 1 0 00210309
+plenarily r 1 0 1 0 00385461
+plenteously r 1 0 1 0 00257881
+plentifully r 1 0 1 0 00257881
+ploddingly r 1 0 1 0 00385575
+pluckily r 1 0 1 0 00386373
+pneumatically r 1 0 1 0 00386028
+poetically r 1 0 1 0 00122404
+pointlessly r 1 0 1 0 00386180
+poisonously r 1 0 1 0 00386294
+polemically r 1 1 ! 1 0 00277239
+polygonally r 1 0 1 0 00461836
+polyphonically r 1 0 1 0 00122313
+polysyllabically r 1 0 1 0 00133371
+pompously r 1 0 1 0 00213978
+ponderously r 2 0 2 0 00386619 00386709
+popishly r 1 0 1 0 00386948
+pornographically r 1 0 1 0 00108219
+portentously r 1 0 1 0 00387017
+possessively r 1 0 1 0 00387122
+post-free r 1 0 1 0 00387247
+post-haste r 1 0 1 0 00240476
+post-paid r 1 0 1 0 00387247
+post_meridiem r 1 1 ;c 1 0 00231829
+posthumously r 1 0 1 0 00383492
+postoperatively r 1 0 1 0 00127444
+potentially r 1 0 1 0 00275637
+potently r 1 0 1 0 00387361
+poutingly r 1 0 1 0 00387553
+powerfully r 2 0 2 0 00387361 00387624
+powerlessly r 1 0 1 0 00387835
+practicably r 1 0 1 0 00387895
+pragmatically r 1 0 1 0 00387990
+praiseworthily r 1 0 1 0 00201314
+pre-eminently r 1 0 1 0 00388124
+precariously r 1 0 1 0 00388327
+precedentedly r 1 1 ! 1 0 00441727
+precipitously r 2 0 2 0 00388606 00388731
+precociously r 1 0 1 0 00388896
+predicatively r 1 0 1 0 00116768
+predictably r 1 0 1 0 00388992
+predominantly r 1 0 1 0 00149992
+preeminently r 1 0 1 0 00388124
+preferentially r 1 0 1 0 00171673
+prematurely r 1 0 1 0 00389226
+preponderantly r 1 0 1 0 00149992
+prepositionally r 1 0 1 0 00464931
+preposterously r 1 0 1 0 00351221
+presciently r 1 0 1 0 00389363
+presentably r 1 0 1 0 00389566
+presidentially r 1 0 1 0 00464990
+pressingly r 1 0 1 0 00389733
+prestissimo r 1 1 ;c 1 0 00383624
+presumptuously r 1 0 1 0 00389791
+pretentiously r 1 1 ! 1 0 00389910
+preternaturally r 1 0 1 0 00390189
+pretty_much r 1 0 1 0 00020574
+priggishly r 1 0 1 0 00390404
+prima_facie r 1 0 1 0 00240586
+primitively r 1 0 1 0 00390657
+primly r 1 0 1 0 00390531
+prissily r 1 0 1 0 00390531
+privily r 1 1 ;u 1 0 00255631
+prn r 1 0 1 0 00169075
+pro r 1 1 ! 1 0 00265701
+pro_forma r 1 0 1 0 00240639
+pro_rata r 1 0 1 0 00240824
+pro_re_nata r 1 0 1 0 00169075
+pro_tem r 1 0 1 0 00237379
+pro_tempore r 1 0 1 0 00237379
+probabilistically r 1 0 1 0 00390862
+prodigiously r 1 0 1 0 00391339
+profanely r 2 0 2 0 00391442 00391579
+professorially r 1 0 1 0 00116879
+proficiently r 1 0 1 0 00391650
+profitlessly r 1 0 1 0 00391754
+profligately r 1 0 1 0 00452095
+prohibitively r 1 0 1 0 00391844
+prominently r 1 0 1 0 00192587
+promiscuously r 2 0 2 0 00352949 00391941
+promisingly r 1 0 1 0 00392055
+properly_speaking r 1 0 1 0 00208977
+prophetically r 1 0 1 0 00228716
+propitiously r 1 1 ! 1 0 00200125
+proportionally r 1 1 ! 1 0 00290416
+proportionately r 3 1 ! 3 0 00240824 00290416 00290698
+prosily r 1 0 1 0 00392283
+prosperously r 1 0 1 0 00013736
+protectively r 1 0 1 0 00195118
+provably r 1 0 1 0 00282268
+proverbially r 1 0 1 0 00392382
+providentially r 3 1 ! 3 0 00335398 00392517 00392648
+provincially r 1 0 1 0 00116980
+provisionally r 1 0 1 0 00081980
+provocatively r 1 0 1 0 00392770
+provokingly r 1 0 1 0 00392770
+prudently r 1 1 ! 1 0 00335398
+prudishly r 1 0 1 0 00392883
+pruriently r 1 0 1 0 00393029
+pryingly r 1 0 1 0 00393087
+psychically r 1 0 1 0 00191627
+psychologically r 2 0 2 0 00393225 00393427
+puckishly r 1 0 1 0 00333429
+pugnaciously r 1 0 1 0 00393527
+punctiliously r 1 0 1 0 00393589
+pungently r 2 0 2 0 00393774 00393875
+punily r 1 0 1 0 00393993
+punishingly r 1 0 1 0 00394043
+punitively r 1 0 1 0 00394103
+punitorily r 1 0 1 0 00394103
+puritanically r 1 0 1 0 00392883
+purposefully r 1 0 1 0 00394185
+purposelessly r 1 0 1 0 00394360
+pusillanimously r 1 0 1 0 00411153
+put_differently r 1 0 1 0 00167050
+pyramidically r 1 0 1 0 00050482
+quaintly r 2 0 2 0 00394468 00394571
+qualitatively r 1 0 1 0 00394697
+quantitatively r 1 0 1 0 00227220
+quaveringly r 1 0 1 0 00460091
+querulously r 1 0 1 0 00379530
+questionably r 1 0 1 0 00395708
+questioningly r 2 0 2 0 00325275 00395851
+quicker r 1 0 1 0 00080059
+quickest r 1 0 1 0 00080160
+quixotically r 1 0 1 0 00396127
+quizzically r 1 0 1 0 00395851
+racially r 1 0 1 0 00121031
+racily r 1 0 1 0 00396291
+radially r 1 0 1 0 00396371
+radiantly r 1 0 1 0 00396511
+radically r 1 0 1 0 00166191
+radioactively r 1 0 1 0 00465056
+raffishly r 1 0 1 0 00203048
+raggedly r 3 0 3 0 00396597 00396709 00396838
+rakishly r 1 0 1 0 00203048
+rallentando r 1 1 ;c 1 0 00383762
+ramblingly r 1 0 1 0 00452022
+rapaciously r 1 0 1 0 00397104
+rapturously r 1 0 1 0 00296378
+raspingly r 1 0 1 0 00318808
+raucously r 2 0 2 0 00184764 00402409
+ravenously r 1 0 1 0 00327383
+raving r 1 0 1 0 00397164
+ravingly r 1 0 1 0 00397164
+ravishingly r 1 0 1 0 00397241
+readably r 1 1 ! 1 0 00329329
+realistically r 2 1 ! 2 0 00117084 00198535
+reassuringly r 1 0 1 0 00397359
+rebelliously r 1 0 1 0 00184294
+rebukingly r 1 0 1 0 00397500
+receptively r 1 0 1 0 00397582
+reciprocally r 1 0 1 0 00367423
+recklessly r 1 0 1 0 00322638
+recognizably r 1 1 ! 1 0 00383877
+recurrently r 1 0 1 0 00465145
+red-handed r 1 0 1 0 00117186
+reflectively r 1 0 1 0 00397642
+reflexly r 1 0 1 0 00178199
+refreshfully r 1 0 1 0 00397845
+refreshingly r 2 0 2 0 00397735 00397845
+regardless r 1 0 1 0 00110690
+regimentally r 1 0 1 0 00461896
+regionally r 1 0 1 0 00125875
+regretfully r 1 0 1 0 00384148
+regrettably r 1 1 ! 1 0 00039799
+regularly r 3 1 ! 3 0 00181072 00302012 00302329
+relativistically r 1 0 1 0 00120921
+relentlessly r 1 0 1 0 00200474
+relevantly r 1 1 ! 1 0 00398090
+religiously r 2 0 2 0 00166290 00166379
+reminiscently r 1 0 1 0 00398160
+remorselessly r 1 0 1 0 00362778
+remotely r 2 0 2 0 00398274 00398355
+rent-free r 1 0 1 0 00240891
+repellently r 1 0 1 0 00398552
+repellingly r 1 0 1 0 00398552
+repentantly r 1 1 ! 1 0 00331710
+repetitively r 1 0 1 0 00398645
+reportedly r 1 0 1 0 00186121
+reprehensibly r 1 0 1 0 00278041
+reproducibly r 1 0 1 0 00056303
+repulsively r 1 0 1 0 00283118
+reputably r 1 1 ! 1 0 00291143
+reputedly r 1 0 1 0 00398774
+resentfully r 1 0 1 0 00398888
+residentially r 1 0 1 0 00461974
+resignedly r 2 0 2 0 00244270 00399183
+resolutely r 2 1 ! 2 0 00222728 00273748
+resoundingly r 1 0 1 0 00399422
+resourcefully r 1 0 1 0 00399539
+respectably r 2 0 2 0 00399603 00399750
+resplendently r 1 0 1 0 00318542
+responsibly r 1 1 ! 1 0 00099574
+restively r 1 0 1 0 00219261
+restlessly r 1 0 1 0 00191425
+restrictively r 1 0 1 0 00399869
+retentively r 1 0 1 0 00400204
+reticently r 1 0 1 0 00400264
+retroactively r 1 0 1 0 00196330
+retrospectively r 1 0 1 0 00400379
+revengefully r 1 0 1 0 00400511
+reverentially r 1 1 ! 1 0 00400669
+reverently r 1 1 ! 1 0 00400669
+reversely r 1 0 1 0 00400817
+reversibly r 1 1 ;c 1 0 00117346
+revoltingly r 1 0 1 0 00286877
+rewardingly r 1 0 1 0 00117470
+rhapsodically r 1 0 1 0 00296378
+rhetorically r 1 0 1 0 00400894
+rhythmically r 1 0 1 0 00363665
+ridiculously r 1 0 1 0 00351221
+right-down r 1 0 1 0 00401001
+right_along r 1 0 1 0 00063178
+righteously r 1 1 ! 1 0 00401098
+riotously r 2 0 2 0 00305529 00435248
+ripely r 1 0 1 0 00399353
+riskily r 1 0 1 0 00401310
+ritually r 1 0 1 0 00202662
+roaring r 1 0 1 0 00401417
+robustly r 1 0 1 0 00401478
+roguishly r 2 0 2 0 00401557 00401653
+rollickingly r 1 0 1 0 00203168
+romantically r 2 1 ! 2 0 00401755 00425144
+roomily r 1 0 1 0 00401848
+rotationally r 1 0 1 0 00401954
+rotundly r 1 0 1 0 00402147
+round-arm r 1 0 1 0 00402297
+round_the_clock r 1 0 1 0 00141843
+routinely r 1 0 1 0 00194713
+rowdily r 1 0 1 0 00402409
+royally r 1 0 1 0 00117530
+rudely r 1 1 ! 1 0 00201164
+ruggedly r 1 0 1 0 00452594
+ruinously r 1 0 1 0 00402526
+rurally r 1 0 1 0 00132983
+ruthlessly r 1 0 1 0 00402629
+sacredly r 1 0 1 0 00166290
+sacrilegiously r 1 0 1 0 00117639
+sadly r 3 1 ! 3 0 00039663 00086284 00366291
+sagaciously r 1 0 1 0 00251578
+sagely r 1 1 ! 1 0 00186651
+salaciously r 1 0 1 0 00350753
+sanctimoniously r 1 0 1 0 00402928
+sanely r 1 1 ! 1 0 00075459
+sapiently r 1 0 1 0 00251578
+sarcastically r 1 0 1 0 00402782
+sardonically r 1 0 1 0 00402782
+satirically r 1 0 1 0 00194175
+satisfactorily r 1 1 ! 1 0 00013261
+satisfyingly r 1 0 1 0 00170854
+savagely r 2 0 2 0 00186351 00186567
+scandalously r 1 0 1 0 00403064
+scarily r 1 0 1 0 00314690
+scathingly r 1 0 1 0 00403191
+scenically r 1 0 1 0 00117705
+sceptically r 1 0 1 0 00403310
+schematically r 1 0 1 0 00403433
+schismatically r 1 0 1 0 00462034
+scholastically r 1 0 1 0 00117795
+scienter r 1 1 ;c 1 0 00219733
+scientifically r 1 0 1 0 00102582
+scoffingly r 1 0 1 0 00275912
+scorching r 1 0 1 0 00403521
+scot_free r 1 0 1 0 00241085
+scrappily r 1 0 1 0 00264013
+screakily r 1 0 1 0 00277826
+screamingly r 1 0 1 0 00403606
+scrumptiously r 1 0 1 0 00356981
+scrupulously r 1 0 1 0 00166379
+scurrilously r 1 0 1 0 00403686
+searchingly r 1 0 1 0 00403859
+seasonably r 1 1 ! 1 0 00252706
+seasonally r 1 0 1 0 00404000
+second-best r 1 0 1 0 00404285
+second_class r 1 0 1 0 00404366
+second_hand r 1 0 1 0 00455706
+secondarily r 1 1 ! 1 0 00128249
+secondhand r 1 0 1 0 00054707
+secretively r 1 0 1 0 00404460
+securely r 4 1 ! 4 0 00206267 00342238 00342433 00342820
+seductively r 1 0 1 0 00404731
+sedulously r 1 0 1 0 00209458
+selectively r 1 0 1 0 00404846
+self-conceitedly r 1 0 1 0 00265916
+self-consciously r 1 1 ! 1 0 00404963
+self-evidently r 1 0 1 0 00405280
+self-indulgently r 1 0 1 0 00108287
+self-righteously r 1 0 1 0 00402928
+selfishly r 1 1 ! 1 0 00298129
+selflessly r 1 0 1 0 00250118
+semantically r 1 0 1 0 00121469
+semiannually r 1 0 1 0 00235441
+sensationally r 1 0 1 0 00405346
+senselessly r 2 0 2 0 00363773 00405485
+sensitively r 1 1 ! 1 0 00343124
+sensually r 1 0 1 0 00405853
+sensuously r 1 0 1 0 00405616
+sentimentally r 1 1 ! 1 0 00405984
+separably r 1 1 ! 1 0 00406262
+sequentially r 1 0 1 0 00268357
+serenely r 1 0 1 0 00406533
+serially r 1 0 1 0 00117896
+servilely r 1 0 1 0 00373690
+seventhly r 1 0 1 0 00406795
+severally r 1 0 1 0 00406916
+sexually r 2 0 2 0 00126655 00126728
+shabbily r 2 0 2 0 00407021 00407142
+shaggily r 1 0 1 0 00407254
+shakily r 2 0 2 0 00407333 00407483
+shallowly r 1 0 1 0 00407611
+shambolically r 1 0 1 0 00407667
+shamefacedly r 1 0 1 0 00407729
+shamefully r 1 0 1 0 00286515
+shamelessly r 1 1 ! 1 0 00193519
+shapelessly r 1 0 1 0 00407922
+sharply r 3 0 3 0 00046895 00195334 00388731
+sheepishly r 1 0 1 0 00408029
+shiftily r 1 0 1 0 00408339
+shockingly r 2 0 2 0 00408435 00408500
+shoddily r 1 0 1 0 00408585
+shoulder-to-shoulder r 1 0 1 0 00032395
+showily r 2 0 2 0 00310479 00376076
+shrewdly r 1 0 1 0 00251578
+shrewishly r 1 0 1 0 00452648
+shrilly r 1 0 1 0 00047004
+shudderingly r 1 0 1 0 00409433
+shyly r 1 0 1 0 00210613
+sic r 1 0 1 0 00135662
+sickeningly r 1 0 1 0 00286877
+sidearm r 1 0 1 0 00465205
+sidesaddle r 1 0 1 0 00409576
+sidesplittingly r 1 0 1 0 00349622
+sideward r 1 0 1 0 00410193
+sidewards r 1 0 1 0 00410193
+signally r 1 0 1 0 00410933
+significantly r 3 1 ! 3 0 00004264 00334124 00460888
+silently r 1 0 1 0 00104624
+silkily r 1 0 1 0 00411037
+simperingly r 1 0 1 0 00411153
+simultaneously r 1 0 1 0 00112215
+since_a_long_time_ago r 1 0 1 0 00149189
+sincerely r 1 0 1 0 00149099
+sincerely_yours r 1 0 1 0 00149099
+sine_die r 1 0 1 0 00237534
+single-handed r 1 0 1 0 00411295
+single-handedly r 1 0 1 0 00411295
+single-mindedly r 1 0 1 0 00411410
+singularly r 1 0 1 0 00411478
+sinuously r 1 0 1 0 00465290
+sinusoidally r 1 0 1 0 00465346
+skeptically r 1 0 1 0 00403310
+sketchily r 1 0 1 0 00411991
+skilfully r 1 0 1 0 00412125
+skillfully r 1 0 1 0 00412125
+skimpily r 1 0 1 0 00412276
+skittishly r 1 0 1 0 00412358
+slam-bang r 1 0 1 0 00413463
+slanderously r 1 0 1 0 00412924
+slangily r 1 0 1 0 00413051
+slantingly r 1 0 1 0 00413150
+slavishly r 1 0 1 0 00413853
+sleekly r 1 0 1 0 00413961
+sleepily r 1 0 1 0 00414056
+sleeplessly r 1 0 1 0 00414180
+slenderly r 1 1 ! 1 0 00359506
+slightingly r 1 0 1 0 00289787
+slopingly r 1 0 1 0 00413150
+sloppily r 1 0 1 0 00414556
+slouchily r 1 0 1 0 00414762
+slouchingly r 1 0 1 0 00414648
+slower r 1 0 1 0 00080115
+slowest r 1 0 1 0 00080218
+slowly r 1 0 1 0 00352574
+sluggishly r 1 0 1 0 00190427
+small r 1 1 ! 1 0 00207428
+small-mindedly r 1 1 ! 1 0 00368117
+smarmily r 1 0 1 0 00438641
+smartly r 2 0 2 0 00004798 00174243
+smilingly r 1 1 ! 1 0 00414941
+smolderingly r 1 0 1 0 00454793
+smoothly r 1 0 1 0 00414419
+smoulderingly r 1 0 1 0 00454793
+smugly r 1 0 1 0 00415230
+smuttily r 1 0 1 0 00415387
+snappishly r 1 0 1 0 00415452
+sneakily r 1 0 1 0 00426217
+sneakingly r 1 0 1 0 00415574
+sneeringly r 1 0 1 0 00415696
+snidely r 1 0 1 0 00415696
+snobbishly r 1 0 1 0 00415870
+snootily r 1 0 1 0 00415870
+snugly r 3 0 3 0 00179639 00179711 00179796
+so_far r 1 0 1 0 00092185
+so_to_speak r 2 0 2 0 00142058 00142163
+soaking r 1 0 1 0 00416952
+sobbingly r 1 0 1 0 00416020
+soberly r 1 0 1 0 00171193
+sociably r 2 1 ! 2 0 00319124 00416119
+sociobiologically r 1 0 1 0 00124272
+socioeconomically r 1 0 1 0 00188280
+sociolinguistically r 1 0 1 0 00121766
+sociologically r 1 0 1 0 00416389
+softly r 1 0 1 0 00455177
+solemnly r 1 0 1 0 00176559
+solicitously r 1 0 1 0 00416517
+solidly r 2 0 2 0 00212612 00212790
+solitarily r 1 0 1 0 00416649
+somberly r 1 0 1 0 00416737
+sombrely r 1 0 1 0 00416737
+someday r 1 0 1 0 00176077
+sonorously r 1 0 1 0 00402147
+soon_enough r 1 0 1 0 00156457
+sooner r 1 0 1 0 00239355
+soonest r 1 0 1 0 00032517
+soothingly r 1 0 1 0 00416849
+sopping r 1 0 1 0 00416952
+sordidly r 1 0 1 0 00417052
+sorrowfully r 2 0 2 0 00292830 00417266
+sottishly r 1 0 1 0 00417432
+sotto_voce r 1 0 1 0 00237613
+sou'-sou'-east r 1 0 1 0 00417810
+sou'-sou'-west r 1 0 1 0 00417907
+soughingly r 1 0 1 0 00461391
+soulfully r 1 0 1 0 00194089
+soullessly r 1 0 1 0 00418004
+soundlessly r 1 0 1 0 00418106
+soundly r 1 0 1 0 00053863
+sourly r 1 0 1 0 00418267
+south-southeast r 1 0 1 0 00417810
+south-southwest r 1 0 1 0 00417907
+southeastward r 1 0 1 0 00462979
+southeastwardly r 1 0 1 0 00462979
+southwestward r 1 0 1 0 00463111
+southwestwardly r 1 0 1 0 00463111
+spaciously r 1 0 1 0 00401848
+sparely r 1 0 1 0 00418598
+sparingly r 1 1 ! 1 0 00359506
+sparsely r 1 0 1 0 00418744
+spasmodically r 2 0 2 0 00418820 00418932
+spatially r 1 0 1 0 00121391
+specifically r 1 1 ! 1 0 00038919
+speciously r 1 0 1 0 00419079
+spectacularly r 1 0 1 0 00193884
+spectrographically r 1 0 1 0 00419137
+speculatively r 1 0 1 0 00223011
+speechlessly r 1 0 1 0 00419262
+spherically r 1 0 1 0 00133035
+spicily r 1 0 1 0 00382825
+spinally r 1 0 1 0 00126582
+spirally r 1 0 1 0 00419411
+spiritedly r 1 0 1 0 00032621
+spiritually r 1 0 1 0 00195219
+spitefully r 2 0 2 0 00186458 00282893
+splendidly r 1 0 1 0 00318542
+spontaneously r 1 0 1 0 00178293
+spookily r 1 0 1 0 00296994
+sportingly r 1 1 ! 1 0 00419486
+sportively r 1 0 1 0 00032718
+spotlessly r 1 0 1 0 00419814
+sprucely r 1 0 1 0 00004798
+spuriously r 1 0 1 0 00419967
+squalidly r 1 0 1 0 00417052
+squarely r 1 0 1 0 00047674
+squeamishly r 1 0 1 0 00420112
+stably r 2 0 2 0 00465470 00465582
+stagily r 1 0 1 0 00420223
+staidly r 1 0 1 0 00171193
+stanchly r 1 0 1 0 00421104
+standoffishly r 1 0 1 0 00420371
+starkly r 3 0 3 0 00420612 00420694 00420803
+startlingly r 1 0 1 0 00420901
+statistically r 1 0 1 0 00073866
+statutorily r 1 0 1 0 00420991
+staunchly r 1 0 1 0 00421104
+steadily r 2 1 ! 2 0 00047096 00162734
+steady r 1 1 ! 1 0 00162734
+steeply r 1 0 1 0 00421211
+step_by_step r 1 0 1 0 00199168
+stepwise r 1 0 1 0 00199168
+stereotypically r 1 0 1 0 00421307
+stertorously r 1 0 1 0 00421375
+stickily r 1 0 1 0 00421480
+stiff r 2 0 2 0 00173081 00421638
+stiffly r 1 0 1 0 00173081
+stiltedly r 1 0 1 0 00421715
+stirringly r 1 0 1 0 00421909
+stochastically r 1 0 1 0 00422021
+stockily r 1 0 1 0 00423637
+stodgily r 1 0 1 0 00424238
+stoically r 1 0 1 0 00423716
+stolidly r 1 0 1 0 00199276
+stonily r 1 0 1 0 00423826
+stormily r 1 0 1 0 00032782
+stoutly r 1 0 1 0 00188402
+stragglingly r 1 0 1 0 00396709
+straight-backed r 1 0 1 0 00300903
+straightforwardly r 1 0 1 0 00047674
+strategically r 1 0 1 0 00423909
+strenuously r 1 0 1 0 00083819
+strictly_speaking r 1 0 1 0 00208977
+stridently r 1 0 1 0 00424010
+strikingly r 1 0 1 0 00180168
+strongly r 2 1 ! 2 0 00165210 00387624
+structurally r 1 0 1 0 00224576
+stubbornly r 1 0 1 0 00184423
+studiously r 1 0 1 0 00174149
+stuffily r 1 0 1 0 00424238
+stunningly r 1 0 1 0 00193884
+stupendously r 1 0 1 0 00424341
+stupidly r 1 0 1 0 00163484
+sturdily r 1 0 1 0 00424435
+stylishly r 1 0 1 0 00424512
+stylistically r 1 0 1 0 00424602
+suavely r 1 0 1 0 00424702
+sub_rosa r 1 0 1 0 00237716
+subconsciously r 1 0 1 0 00226463
+subcutaneously r 1 0 1 0 00126350
+subjectively r 1 1 ! 1 0 00373479
+sublimely r 1 0 1 0 00424822
+submissively r 1 0 1 0 00281834
+subserviently r 1 0 1 0 00373690
+subtly r 1 0 1 0 00424986
+successfully r 1 1 ! 1 0 00112079
+successively r 1 0 1 0 00168015
+succinctly r 1 0 1 0 00266681
+such r 1 1 ;u 1 0 00136702
+sufficiently r 1 1 ! 1 0 00134746
+suggestively r 1 0 1 0 00465707
+suitably r 1 1 ! 1 0 00129439
+sulkily r 1 0 1 0 00425463
+sullenly r 1 0 1 0 00223386
+sultrily r 1 0 1 0 00405853
+summa_cum_laude r 1 0 1 0 00267636
+summarily r 1 0 1 0 00425562
+sumptuously r 1 0 1 0 00375758
+superciliously r 1 0 1 0 00415696
+superficially r 1 0 1 0 00133117
+superfluously r 1 0 1 0 00425677
+superlatively r 1 0 1 0 00425805
+supernaturally r 1 0 1 0 00390189
+superstitiously r 1 0 1 0 00425869
+supinely r 2 0 2 0 00425996 00426119
+supremely r 1 0 1 0 00199355
+sure_enough r 1 0 1 0 00139575
+surgically r 1 0 1 0 00127272
+surlily r 1 0 1 0 00261775
+surpassingly r 1 0 1 0 00426368
+surprisedly r 1 0 1 0 00426472
+surreptitiously r 1 0 1 0 00426217
+suspiciously r 1 0 1 0 00222506
+sweepingly r 1 0 1 0 00426548
+swiftly r 1 0 1 0 00049712
+syllabically r 1 0 1 0 00133216
+symbiotically r 1 1 ;c 1 0 00108357
+symbolically r 2 0 2 0 00108438 00118165
+symmetrically r 1 1 ! 1 0 00163725
+sympathetically r 2 1 ! 2 0 00178392 00178519
+symptomatically r 1 0 1 0 00133439
+synchronously r 1 0 1 0 00427021
+synergistically r 2 0 2 0 00465796 00465899
+synonymously r 1 0 1 0 00465991
+syntactically r 1 0 1 0 00126491
+synthetically r 1 0 1 0 00427164
+systematically r 1 1 ! 1 0 00112556
+tacitly r 1 0 1 0 00427336
+taciturnly r 1 0 1 0 00104624
+tactfully r 1 1 ! 1 0 00427466
+tactically r 1 0 1 0 00427806
+tactlessly r 1 1 ! 1 0 00427615
+tactually r 1 0 1 0 00184093
+talkatively r 1 0 1 0 00356274
+talkily r 1 0 1 0 00356274
+tamely r 1 0 1 0 00427937
+tangentially r 1 0 1 0 00133493
+tangibly r 1 0 1 0 00428055
+tantalizingly r 1 0 1 0 00181848
+tartly r 1 0 1 0 00428142
+tastefully r 1 1 ! 1 0 00428244
+tastelessly r 1 1 ! 1 0 00428380
+tastily r 2 1 ! 2 0 00428244 00428529
+tauntingly r 1 0 1 0 00428612
+tautly r 1 0 1 0 00428762
+tawdrily r 1 0 1 0 00315742
+taxonomically r 1 0 1 0 00466092
+tearfully r 1 0 1 0 00428845
+teasingly r 1 0 1 0 00428612
+technically r 3 0 3 0 00118250 00118384 00118523
+technologically r 1 0 1 0 00134554
+tediously r 1 0 1 0 00198159
+telegraphically r 1 0 1 0 00428970
+telescopically r 1 0 1 0 00429125
+tellingly r 1 0 1 0 00429317
+temperamentally r 1 0 1 0 00134649
+temperately r 3 0 3 0 00244475 00429462 00429565
+temporally r 1 0 1 0 00118731
+temporarily r 1 1 ! 1 0 00081524
+temptingly r 1 0 1 0 00404731
+tenaciously r 1 0 1 0 00217753
+tendentiously r 1 0 1 0 00429670
+tenderly r 1 0 1 0 00429799
+tentatively r 1 0 1 0 00166948
+tenthly r 1 0 1 0 00429912
+tenuously r 1 0 1 0 00209562
+tepidly r 1 0 1 0 00353642
+terminally r 1 0 1 0 00118822
+terrestrially r 2 0 2 0 00118888 00366612
+territorially r 1 0 1 0 00118975
+tersely r 1 0 1 0 00428970
+tetchily r 1 0 1 0 00430032
+tete_a_tete r 1 0 1 0 00042297
+thankfully r 1 0 1 0 00185201
+that_much r 1 0 1 0 00020921
+the_least_bit r 1 0 1 0 00052719
+the_whole_way r 1 0 1 0 00141355
+theatrically r 2 0 2 0 00175044 00420223
+thematically r 1 0 1 0 00119068
+then_again r 1 1 ! 1 0 00111719
+theologically r 2 0 2 0 00430144 00430280
+theoretically r 2 1 ! 2 0 00158649 00158773
+therapeutically r 1 0 1 0 00119163
+thereinafter r 1 0 1 0 00422782
+therewithal r 1 0 1 0 00423486
+thermally r 1 0 1 0 00119317
+thermodynamically r 1 0 1 0 00073969
+thermostatically r 1 0 1 0 00430387
+thickly r 2 1 ! 2 0 00431001 00431147
+thin r 1 1 ! 1 0 00431560
+thinly r 3 1 ! 3 0 00430886 00431560 00431666
+thirdhand r 1 0 1 0 00054843
+thirstily r 2 0 2 0 00186008 00431859
+thoughtfully r 2 1 ! 2 0 00199573 00199852
+thoughtlessly r 2 1 ! 2 0 00199730 00199973
+thousand-fold r 1 0 1 0 00130109
+thousand_times r 1 0 1 0 00130109
+threateningly r 1 0 1 0 00362221
+thriftily r 1 0 1 0 00431976
+thriftlessly r 1 0 1 0 00432158
+through_empirical_observation r 1 1 ! 1 0 00077827
+tidily r 1 0 1 0 00363324
+tightly r 2 0 2 0 00085644 00274957
+time_and_again r 1 0 1 0 00164922
+time_and_time_again r 1 0 1 0 00164922
+timidly r 1 0 1 0 00210613
+timorously r 1 0 1 0 00432650
+tip-top r 1 0 1 0 00432730
+tiptoe r 1 0 1 0 00432814
+tiredly r 1 0 1 0 00083585
+tirelessly r 1 0 1 0 00049005
+tiresomely r 1 0 1 0 00198159
+to_a_man r 1 0 1 0 00160397
+to_a_t r 1 0 1 0 00160485
+to_advantage r 1 0 1 0 00160248
+to_all_intents_and_purposes r 1 0 1 0 00056063
+to_and_fro r 1 0 1 0 00071160
+to_be_precise r 1 0 1 0 00208977
+to_be_sure r 1 0 1 0 00139467
+to_boot r 1 0 1 0 00043245
+to_both_ears r 1 1 ! 1 0 00192189
+to_date r 1 0 1 0 00160615
+to_one_ear r 1 1 ! 1 0 00192336
+to_order r 1 0 1 0 00160724
+to_perfection r 1 0 1 0 00160485
+to_that_degree r 1 0 1 0 00092185
+to_that_effect r 1 0 1 0 00160904
+to_that_extent r 1 0 1 0 00092185
+to_the_hilt r 1 0 1 0 00161008
+to_the_letter r 1 0 1 0 00160485
+to_the_limit r 1 0 1 0 00161008
+toe-to-toe r 1 0 1 0 00108529
+tolerantly r 1 1 ! 1 0 00345795
+tonelessly r 1 0 1 0 00432989
+tongue-in-cheek r 2 0 2 0 00079272 00256226
+tooth_and_nail r 1 0 1 0 00160810
+topographically r 1 0 1 0 00433074
+topologically r 1 0 1 0 00466189
+topsy-turvily r 1 0 1 0 00152477
+topsy-turvy r 1 0 1 0 00152477
+tortuously r 2 0 2 0 00433278 00433374
+torturously r 1 0 1 0 00241573
+touchily r 1 0 1 0 00433433
+toughly r 1 0 1 0 00433529
+tragically r 1 0 1 0 00218808
+traitorously r 1 0 1 0 00305720
+tranquilly r 1 0 1 0 00173768
+transcendentally r 1 0 1 0 00433624
+transiently r 1 0 1 0 00433721
+transitionally r 1 0 1 0 00433900
+transitively r 1 1 ! 1 0 00346018
+transitorily r 1 0 1 0 00433992
+transparently r 2 0 2 0 00434053 00434201
+transversally r 1 0 1 0 00127805
+transversely r 1 0 1 0 00127805
+treacherously r 1 0 1 0 00305720
+treasonably r 1 0 1 0 00305720
+tremulously r 1 0 1 0 00434360
+trenchantly r 1 0 1 0 00434466
+trepidly r 1 0 1 0 00432650
+trimly r 1 0 1 0 00419892
+tritely r 1 0 1 0 00434592
+triumphantly r 1 0 1 0 00180982
+trivially r 2 0 2 0 00434674 00434774
+tropically r 1 0 1 0 00434882
+truculently r 2 0 2 0 00434983 00435101
+trustfully r 1 0 1 0 00190514
+truthfully r 1 1 ! 1 0 00362537
+tumultuously r 1 0 1 0 00435248
+tunefully r 1 1 ! 1 0 00361524
+tunelessly r 1 0 1 0 00458300
+turbulently r 2 0 2 0 00032782 00435378
+turgidly r 1 0 1 0 00249007
+tutorially r 1 0 1 0 00435494
+twirlingly r 1 0 1 0 00203661
+typically r 1 1 ! 1 0 00119408
+typographically r 1 0 1 0 00435710
+ulteriorly r 1 0 1 0 00466264
+ultra_vires r 1 0 1 0 00435773
+ultrasonically r 1 0 1 0 00004688
+unabashedly r 1 0 1 0 00003485
+unable_to_help r 1 0 1 0 00192860
+unacceptably r 1 1 ! 1 0 00051731
+unaccountably r 1 0 1 0 00435869
+unachievably r 1 0 1 0 00436523
+unalterably r 1 0 1 0 00436001
+unambiguously r 2 1 ! 2 0 00163593 00202520
+unambitiously r 1 1 ! 1 0 00242450
+unanimously r 1 0 1 0 00099406
+unappealingly r 1 1 ! 1 0 00241921
+unappreciatively r 1 1 ! 1 0 00250525
+unarguably r 1 0 1 0 00436160
+unashamedly r 1 1 ! 1 0 00193519
+unassailably r 1 0 1 0 00436001
+unassertively r 1 1 ! 1 0 00246284
+unassumingly r 1 0 1 0 00436411
+unattainably r 1 0 1 0 00436523
+unattractively r 1 1 ! 1 0 00223256
+unavoidably r 1 0 1 0 00192717
+unbearably r 1 0 1 0 00437048
+unbecomingly r 1 1 ! 1 0 00279231
+unbeknown r 1 0 1 0 00437146
+unbeknownst r 1 0 1 0 00437146
+unbelievably r 2 1 ! 2 0 00225593 00271360
+unbelievingly r 1 1 ! 1 0 00271786
+unblinkingly r 1 0 1 0 00459412
+unblushingly r 1 0 1 0 00437276
+uncannily r 1 0 1 0 00437424
+unceasingly r 1 0 1 0 00260376
+unceremoniously r 1 1 ! 1 0 00202780
+uncertainly r 2 1 ! 2 0 00162530 00437507
+unchangeably r 1 0 1 0 00436001
+uncharacteristically r 1 1 ! 1 0 00228295
+unchivalrously r 1 1 ! 1 0 00437596
+uncivilly r 1 1 ! 1 0 00307762
+unclearly r 1 0 1 0 00036716
+uncomfortably r 1 1 ! 1 0 00144271
+uncomparably r 1 1 ! 1 0 00336458
+uncomplainingly r 1 1 ! 1 0 00264747
+uncompromisingly r 1 0 1 0 00437949
+unconcernedly r 1 0 1 0 00438274
+unconditionally r 1 1 ! 1 0 00268756
+unconsciously r 1 1 ! 1 0 00223764
+unconstitutionally r 1 1 ! 1 0 00114168
+uncontrollably r 1 0 1 0 00438418
+uncontroversially r 1 1 ! 1 0 00277371
+unconventionally r 1 1 ! 1 0 00021472
+unconvincingly r 1 1 ! 1 0 00178927
+uncouthly r 1 0 1 0 00438515
+uncritically r 1 1 ! 1 0 00172106
+unctuously r 1 0 1 0 00438641
+undecipherably r 1 1 ! 1 0 00329453
+undemocratically r 1 1 ! 1 0 00114487
+undeniably r 1 0 1 0 00438723
+undependably r 1 1 ! 1 0 00205337
+under_arms r 1 0 1 0 00351567
+under_the_circumstances r 1 0 1 0 00161100
+under_way r 1 0 1 0 00220482
+understandingly r 1 0 1 0 00193998
+undesirably r 1 0 1 0 00438020
+undiplomatically r 1 1 ! 1 0 00188126
+undisputedly r 1 0 1 0 00436160
+undramatically r 1 1 ! 1 0 00128977
+unemotionally r 1 1 ! 1 0 00172814
+unendingly r 1 0 1 0 00260376
+unenergetically r 1 0 1 0 00352651
+unenthusiastically r 1 1 ! 1 0 00175669
+unequally r 1 1 ! 1 0 00302813
+unequivocally r 1 1 ! 1 0 00202520
+unerringly r 1 0 1 0 00213369
+unethically r 1 1 ! 1 0 00301334
+unevenly r 3 1 ! 3 0 00302126 00302813 00396838
+uneventfully r 1 0 1 0 00440798
+unexcitingly r 1 1 ! 1 0 00303287
+unexpectedly r 1 0 1 0 00037907
+unfailingly r 1 0 1 0 00106168
+unfairly r 1 1 ! 1 0 00262293
+unfaithfully r 1 1 ! 1 0 00205337
+unfalteringly r 1 0 1 0 00195779
+unfashionably r 1 1 ! 1 0 00307278
+unfavorably r 1 1 ! 1 0 00212141
+unfavourably r 1 1 ! 1 0 00212141
+unfeelingly r 2 1 ! 2 0 00220146 00308785
+unforgettably r 1 1 ! 1 0 00362008
+unforgivably r 1 1 ! 1 0 00303648
+unforgivingly r 1 1 ! 1 0 00312276
+unfortunately r 1 1 ! 1 0 00039799
+ungracefully r 1 1 ! 1 0 00180564
+ungraciously r 1 1 ! 1 0 00180564
+ungrammatically r 1 1 ! 1 0 00440902
+ungratefully r 1 1 ! 1 0 00250525
+ungrudgingly r 1 1 ! 1 0 00319993
+unhappily r 2 1 ! 2 0 00039663 00047309
+unharmoniously r 1 0 1 0 00218123
+unhelpfully r 1 1 ! 1 0 00171427
+unhurriedly r 1 1 ! 1 0 00191158
+unhygienically r 1 1 ! 1 0 00327805
+uniformly r 1 0 1 0 00230617
+unilaterally r 1 1 ! 1 0 00233399
+unimaginably r 1 0 1 0 00441151
+unimaginatively r 1 1 ! 1 0 00193104
+unimpeachably r 1 0 1 0 00395525
+unimpressively r 1 1 ! 1 0 00197046
+uninformatively r 1 1 ! 1 0 00339915
+uninstructively r 1 1 ! 1 0 00339915
+unintelligently r 1 1 ! 1 0 00187154
+unintelligibly r 1 1 ! 1 0 00187418
+uninterestingly r 1 1 ! 1 0 00198072
+uninterruptedly r 1 0 1 0 00441230
+uninvitedly r 1 0 1 0 00438126
+uniquely r 1 0 1 0 00163593
+universally r 1 0 1 0 00181352
+unjustifiably r 1 1 ! 1 0 00220355
+unjustly r 1 1 ! 1 0 00190116
+unkindly r 1 1 ! 1 0 00002667
+unlawfully r 1 1 ! 1 0 00232370
+unluckily r 1 1 ! 1 0 00039799
+unmanageably r 1 1 ! 1 0 00354183
+unmanfully r 1 1 ! 1 0 00354540
+unmanly r 1 1 ! 1 0 00354540
+unmelodiously r 1 1 ! 1 0 00361638
+unmemorably r 1 1 ! 1 0 00362140
+unmercifully r 1 0 1 0 00362778
+unmindfully r 1 1 ! 1 0 00143117
+unmistakably r 1 0 1 0 00195652
+unmusically r 1 1 ! 1 0 00367028
+unnaturally r 3 1 ! 3 0 00036303 00130435 00441387
+unnecessarily r 2 1 ! 2 0 00167345 00369873
+unnoticeably r 1 1 ! 1 0 00331922
+unobtrusively r 1 1 ! 1 0 00374108
+unofficially r 2 1 ! 2 0 00106713 00224990
+unoriginally r 1 0 1 0 00143944
+unpalatably r 1 1 ! 1 0 00377582
+unpardonably r 1 1 ! 1 0 00303648
+unpatriotically r 1 1 ! 1 0 00379002
+unpleasantly r 1 1 ! 1 0 00201726
+unprecedentedly r 1 1 ! 1 0 00441800
+unpredictably r 1 0 1 0 00100512
+unpretentiously r 1 1 ! 1 0 00390028
+unproductively r 1 1 ! 1 0 00197368
+unprofitably r 2 1 ! 2 0 00197368 00391754
+unpropitiously r 1 1 ! 1 0 00200294
+unqualifiedly r 1 0 1 0 00211535
+unquestionably r 1 0 1 0 00395525
+unquestioningly r 1 0 1 0 00453594
+unquietly r 1 1 ! 1 0 00211452
+unreadably r 1 1 ! 1 0 00329453
+unrealistically r 1 1 ! 1 0 00198660
+unreasonably r 2 1 ! 2 0 00033693 00199009
+unreasoningly r 1 0 1 0 00462106
+unrecognisable r 1 1 ! 1 0 00383994
+unrecognizably r 1 1 ! 1 0 00383994
+unrelentingly r 1 0 1 0 00200474
+unreliably r 1 1 ! 1 0 00205337
+unrepentantly r 1 1 ! 1 0 00331553
+unreproducibly r 1 0 1 0 00340907
+unrestrainedly r 1 0 1 0 00442039
+unrighteously r 1 1 ! 1 0 00401201
+unromantically r 1 1 ! 1 0 00425286
+unsatiably r 2 0 2 0 00341966 00342135
+unscientifically r 1 0 1 0 00102706
+unscrupulously r 1 0 1 0 00442106
+unseasonably r 1 1 ! 1 0 00252817
+unselfconsciously r 1 1 ! 1 0 00405119
+unselfishly r 1 1 ! 1 0 00298252
+unsentimentally r 1 1 ! 1 0 00406121
+unshakably r 1 0 1 0 00195779
+unsmilingly r 1 1 ! 1 0 00415097
+unsociably r 1 1 ! 1 0 00416265
+unsparingly r 1 0 1 0 00403191
+unspeakably r 1 0 1 0 00337719
+unsportingly r 1 1 ! 1 0 00419584
+unsteadily r 1 1 ! 1 0 00162530
+unstintingly r 1 0 1 0 00442231
+unsuccessfully r 1 1 ! 1 0 00156711
+unsuitably r 1 1 ! 1 0 00129617
+unsuspectingly r 1 0 1 0 00419670
+unswervingly r 2 0 2 0 00442294 00442438
+unsymmetrically r 1 1 ! 1 0 00163843
+unsympathetically r 1 1 ! 1 0 00178659
+unsystematically r 1 1 ! 1 0 00112723
+unthinkably r 1 0 1 0 00441151
+unthinking r 1 1 ! 1 0 00199973
+unthinkingly r 1 1 ! 1 0 00199973
+untidily r 1 0 1 0 00363176
+untruly r 1 0 1 0 00442541
+untruthfully r 1 1 ! 1 0 00362356
+untypically r 1 1 ! 1 0 00119511
+ununderstandably r 1 1 ! 1 0 00187418
+unutterably r 1 0 1 0 00337719
+unwantedly r 1 0 1 0 00438020
+unwarily r 1 1 ! 1 0 00207749
+unwarrantably r 1 0 1 0 00442702
+unwisely r 1 1 ! 1 0 00186777
+unwontedly r 1 0 1 0 00438216
+unworthily r 1 0 1 0 00442937
+up-country r 1 0 1 0 00442996
+up_and_down r 2 0 2 0 00071478 00206170
+up_here r 1 0 1 0 00241239
+up_to_now r 1 0 1 0 00160615
+uppishly r 1 0 1 0 00415870
+upriver r 1 1 ! 1 0 00090253
+uproariously r 1 0 1 0 00170271
+upside_down r 1 0 1 0 00201845
+upstate r 1 0 1 0 00161632
+upstream r 1 1 ! 1 0 00090253
+upwind r 1 1 ! 1 0 00087650
+urbanely r 1 0 1 0 00443802
+urgently r 1 0 1 0 00067925
+usefully r 1 1 ! 1 0 00443925
+uselessly r 1 1 ! 1 0 00444052
+usuriously r 1 0 1 0 00303865
+uxoriously r 1 0 1 0 00444172
+vacuously r 1 0 1 0 00444437
+vaguely r 1 0 1 0 00213853
+valiantly r 1 0 1 0 00444493
+validly r 1 0 1 0 00444611
+valorously r 1 0 1 0 00444493
+vanishingly r 1 0 1 0 00453276
+vapidly r 1 0 1 0 00444710
+variably r 1 0 1 0 00444792
+variously r 1 0 1 0 00048802
+vehemently r 1 0 1 0 00444918
+venally r 1 1 ! 1 0 00287232
+vengefully r 1 0 1 0 00400511
+venomously r 1 0 1 0 00386294
+ventrally r 1 0 1 0 00077144
+verbosely r 1 0 1 0 00445028
+vertically r 1 0 1 0 00326020
+very_fast r 1 0 1 0 00154607
+very_much_like r 1 0 1 0 00175321
+vexatiously r 1 0 1 0 00466323
+vicariously r 1 0 1 0 00445338
+viciously r 1 0 1 0 00186351
+victoriously r 1 0 1 0 00184849
+vigilantly r 1 0 1 0 00445459
+vilely r 1 0 1 0 00445530
+vindictively r 1 0 1 0 00400511
+virtuously r 1 0 1 0 00261188
+virulently r 1 0 1 0 00445623
+viscerally r 2 0 2 0 00123869 00462106
+viscidly r 1 0 1 0 00421480
+visually r 1 0 1 0 00123789
+vitally r 1 0 1 0 00083675
+vitriolically r 1 0 1 0 00259597
+viva_voce r 1 0 1 0 00238311
+vivace r 1 0 1 0 00445758
+vivaciously r 1 0 1 0 00445837
+vividly r 1 0 1 0 00226571
+vocally r 1 0 1 0 00119810
+vocationally r 1 0 1 0 00041294
+vociferously r 1 0 1 0 00143316
+volcanically r 1 0 1 0 00133573
+volubly r 1 0 1 0 00261290
+volumetrically r 1 0 1 0 00110400
+voluntarily r 1 1 ! 1 0 00213115
+voluptuously r 2 0 2 0 00405739 00445932
+voraciously r 1 0 1 0 00446037
+voyeuristically r 1 0 1 0 00446131
+vulgarly r 1 0 1 0 00415387
+vulnerably r 1 0 1 0 00446241
+wackily r 1 0 1 0 00278250
+wafer-thin r 1 0 1 0 00466383
+waggishly r 1 0 1 0 00446301
+waist-deep r 1 0 1 0 00446357
+waist-high r 1 0 1 0 00446357
+wanly r 1 0 1 0 00446452
+wantonly r 2 0 2 0 00352949 00446545
+warm r 1 0 1 0 00391095
+warmly r 1 0 1 0 00391095
+watchfully r 1 0 1 0 00445459
+wealthily r 1 0 1 0 00446645
+wearily r 1 0 1 0 00083585
+week_after_week r 1 0 1 0 00165880
+week_by_week r 1 0 1 0 00165967
+weightily r 2 0 2 0 00446693 00446776
+weirdly r 1 0 1 0 00179040
+whacking r 1 0 1 0 00446889
+whatever_may_come r 1 0 1 0 00145870
+wheezily r 1 0 1 0 00446959
+wheezingly r 1 0 1 0 00446959
+when_first_seen r 1 0 1 0 00096551
+when_the_time_comes r 1 0 1 0 00153975
+whimsically r 1 0 1 0 00306887
+wholeheartedly r 1 0 1 0 00447043
+wholesomely r 1 0 1 0 00447205
+wickedly r 1 0 1 0 00133882
+widely r 2 0 2 0 00447741 00457463
+wildly r 3 0 3 0 00162940 00163184 00163313
+wilfully r 1 0 1 0 00448264
+willfully r 1 0 1 0 00448264
+windily r 1 0 1 0 00445028
+winsomely r 1 0 1 0 00218703
+wisely r 1 1 ! 1 0 00186651
+wishfully r 1 0 1 0 00448364
+wistfully r 1 0 1 0 00448463
+witheringly r 1 0 1 0 00448617
+without_doubt r 1 0 1 0 00139467
+woefully r 1 0 1 0 00086284
+wolfishly r 1 0 1 0 00448835
+wonderingly r 1 0 1 0 00325275
+woodenly r 1 1 ! 1 0 00180564
+wordily r 1 0 1 0 00445028
+wordlessly r 1 0 1 0 00104624
+worriedly r 1 0 1 0 00448959
+worryingly r 1 0 1 0 00448895
+worthily r 1 0 1 0 00449107
+worthlessly r 1 0 1 0 00449178
+wrathfully r 1 0 1 0 00449238
+wretchedly r 1 0 1 0 00449353
+wrongfully r 1 0 1 0 00466455
+wrongheadedly r 1 0 1 0 00184606
+wrongly r 1 0 1 0 00189486
+wryly r 1 0 1 0 00206391
+yearningly r 1 0 1 0 00353333
+yieldingly r 1 1 ! 1 0 00289320
+you_bet r 1 0 1 0 00141631
+you_said_it r 1 0 1 0 00141631
+youthfully r 1 0 1 0 00449557
+zealously r 1 0 1 0 00449654
+zestfully r 1 0 1 0 00449774
+zestily r 1 0 1 0 00449774
+а_именно r 1 0 1 0 00175268
+абсолютно r 2 0 2 0 00408130 00408237
+абсурдно r 1 0 1 0 00275766
+аккуратно r 1 0 1 0 00167668
+анданте r 1 1 ;c 1 0 00247325
+аннулирование r 1 0 1 0 00216912
+без_всплеска r 1 1 ;u 1 0 00385691
+без_желания r 1 0 1 0 00084322
+без_колебания r 1 1 ! 1 0 00135129
+без_обиняков r 1 1 ! 1 0 00054098
+без_подготовки r 2 0 2 0 00081856 00305235
+без_помех r 1 0 1 0 00194260
+без_промедления r 1 0 1 0 00098493
+без_седла r 1 0 1 0 00256430
+без_суеты r 1 0 1 0 00098105
+без_труда r 1 0 1 0 00010472
+без_усилий r 1 0 1 0 00167886
+безвременно r 1 0 1 0 00389122
+безмерно r 1 0 1 0 00003754
+безразлично r 1 0 1 0 00338096
+безрассудно r 3 0 3 0 00059532 00162300 00322566
+безусловно r 1 1 ;u 1 0 00133981
+безучастно r 2 0 2 0 00257429 00444281
+бережливо r 3 0 3 0 00115039 00115202 00115364
+бережно r 2 1 ! 2 0 00142843 00259713
+бесплатно r 1 0 1 0 00238397
+бесплодно r 1 0 1 0 00244387
+беспорядочно r 2 0 2 0 00152350 00152744
+бессмысленно r 1 0 1 0 00444281
+бесспорно r 1 0 1 0 00034461
+бесцеремонно r 3 0 3 0 00243400 00243602 00306395
+благородно r 1 0 1 0 00371654
+бледно r 1 0 1 0 00065497
+близко r 4 0 4 0 00149450 00149668 00215003 00456436
+близко_к_берегу r 1 0 1 0 00238700
+богато r 3 1 ! 3 0 00174368 00324905 00359768
+бодро_и_пр. r 1 0 1 0 00332983
+боком r 4 0 4 0 00409821 00410284 00410476 00410623
+босиком r 1 0 1 0 00256533
+буквально r 1 0 1 0 00462506
+бывало r 1 0 1 0 00111098
+быстро r 10 1 ! 10 0 00079379 00098493 00098617 00098756 00150130 00191257 00251949 00252040 00267195 00354951
+быть_может r 1 0 1 0 00128585
+в-пятых r 1 0 1 0 00309390
+в-третьих r 1 0 1 0 00096107
+в-четвёртых r 1 0 1 0 00313835
+в-шестых r 1 0 1 0 00411890
+в_алфавитном_порядке r 1 0 1 0 00187658
+в_беспорядке r 1 0 1 0 00235971
+в_верхней_части_города r 1 1 ! 1 0 00174476
+в_восточном_направлении r 1 0 1 0 00295438
+в_глубине_сцены r 1 2 ! ;c 1 0 00243925
+в_гору r 2 0 2 0 00443101 00443193
+в_дальнейшем r 1 0 1 0 00323543
+в_девять_раз_больше r 1 0 1 0 00371532
+в_деловой_центр r 1 1 ! 1 0 00174598
+в_длину r 1 0 1 0 00352358
+в_заключение r 1 0 1 0 00061085
+в_значительной_степени r 2 0 2 0 00060620 00344492
+в_известной_мере r 1 1 ! 1 0 00360789
+в_конечном_счёте r 2 0 2 0 00044881 00045080
+в_конце_концов r 2 0 2 0 00044881 00045080
+в_космос r 1 0 1 0 00465408
+в_наименьшей_степени r 1 1 ! 1 0 00104254
+в_начальной_стадии r 1 0 1 0 00096326
+в_определённом_месте r 2 0 2 0 00125628 00125744
+в_основном r 2 0 2 0 00001689 00344492
+в_открытом_море r 1 1 ! 1 0 00129869
+в_отчаянии r 1 0 1 0 00276584
+в_первую_очередь r 1 0 1 0 00095862
+в_подветренную_сторону r 1 1 ! 1 0 00087971
+в_поле r 3 0 3 0 00242836 00242964 00243177
+в_помещении r 1 1 ! 1 0 00103072
+в_порядке_опыта r 1 0 1 0 00078985
+в_постели r 1 0 1 0 00210820
+в_промышленном_отношении r 1 0 1 0 00116113
+в_равной_степени r 1 0 1 0 00019989
+в_резерве r 2 0 2 0 00215386 00216517
+в_розницу r 1 1 ! 1 0 00399979
+в_ряд r 1 0 1 0 00230909
+в_самом_деле r 1 1 ;u 1 0 00034848
+в_самую_точку r 1 1 ;u 1 0 00256084
+в_северном_направлении r 1 0 1 0 00224815
+в_северо-восточном_направлении r 1 0 1 0 00462710
+в_северо-западном_направлении r 1 0 1 0 00462868
+в_семь_раз r 1 0 1 0 00406662
+в_сохранности r 1 0 1 0 00143408
+в_стороне r 6 0 6 0 00114654 00168313 00168671 00168879 00215539 00215749
+в_сторону r 5 0 5 0 00215215 00409821 00410284 00410476 00410623
+в_сторону_кормы r 1 1 ! 1 0 00254011
+в_сторону_моря r 1 0 1 0 00404161
+в_сторону_тыла r 1 1 ! 1 0 00069329
+в_том_же_месте r 1 0 1 0 00236110
+в_том_и_т.д. r 1 1 ;u 1 0 00222004
+в_точку r 1 0 1 0 00384659
+в_ту_сторону r 1 1 ! 1 0 00102035
+в_тыл r 1 1 ! 1 0 00069329
+в_цифрах r 1 0 1 0 00372407
+в_ширину r 1 0 1 0 00257983
+в_этом r 2 1 ;u 2 0 00101637 00222004
+в_юго-восточном_направлении r 1 0 1 0 00417488
+в_юго-западном_направлении r 1 0 1 0 00417652
+в_южном_направлении r 2 0 2 0 00224686 00418389
+вверх r 4 1 ! 4 0 00087307 00087417 00089129 00089409
+вглубь r 1 0 1 0 00238572
+вдалеке r 1 0 1 0 00094022
+вдали r 3 0 3 0 00042648 00042748 00042944
+вдвое r 5 0 5 0 00077215 00077730 00293395 00293497 00435613
+вдвойне r 4 0 4 0 00077215 00077730 00293395 00293497
+вдесятеро r 1 0 1 0 00227118
+вдобавок r 1 0 1 0 00037688
+вдоль_всего_судна r 1 1 ! 1 0 00254337
+вдоль_побережья r 1 0 1 0 00263103
+вдруг r 2 0 2 0 00057320 00159614
+вежливо r 3 1 ! 3 0 00171068 00200990 00307616
+везде r 2 1 ;u 2 0 00023567 00237296
+великолепно r 1 1 ;u 1 0 00170644
+верно r 8 2 ;u ! 8 0 00053985 00098290 00139682 00188619 00189613 00189711 00205176 00351940
+вероятно r 2 1 ! 2 0 00128585 00271593
+верхом r 3 0 3 0 00000691 00254642 00254736
+весело r 3 1 ! 3 0 00047188 00152028 00201465
+весьма r 4 0 4 0 00082420 00082601 00082864 00182371
+вечно r 1 0 1 0 00209680
+взаимно r 1 0 1 0 00367246
+взамен r 1 0 1 0 00091945
+видимо r 2 1 ! 2 0 00179918 00347059
+виновато r 1 0 1 0 00320355
+вкось r 6 0 6 0 00409821 00409972 00410105 00410284 00410476 00410623
+вкрадчиво r 1 0 1 0 00343983
+вместе r 8 0 8 0 00108648 00108729 00108838 00108914 00109119 00109210 00183329 00458947
+вместо r 1 0 1 0 00058579
+вне r 2 0 2 0 00214077 00214711
+внезапно r 10 2 ;u ;c 10 0 00057200 00057320 00159614 00272495 00385839 00386841 00408808 00408946 00409103 00409217
+внешне r 2 1 ! 2 0 00211611 00211890
+вниз r 17 1 ! 17 0 00088121 00088393 00088625 00088733 00088879 00089025 00293941 00294050 00438966 00439045 00439131 00439232 00439370 00439479 00439581 00440317 00440529
+вниз_по_течению r 1 1 ! 1 0 00090375
+внизу r 4 1 ! 4 0 00074417 00074612 00087204 00438869
+внимательно r 2 1 ! 2 0 00142843 00259713
+внутренне r 1 1 ! 1 0 00229516
+внутри r 3 1 ! 3 0 00097276 00103349 00211757
+внутрь r 5 1 ! 5 0 00097276 00211757 00238572 00238801 00453496
+внятно r 1 1 ! 1 0 00248184
+во-вторых r 1 0 1 0 00096003
+во-первых r 1 0 1 0 00095862
+во_всех_отношениях r 1 0 1 0 00096209
+во_сто_крат r 1 0 1 0 00327271
+возбуждённо r 1 0 1 0 00322995
+воздушно r 1 0 1 0 00311157
+возможно r 2 1 ! 2 0 00275048 00275272
+воинственно r 1 0 1 0 00103565
+вокруг r 1 0 1 0 00325653
+волей-неволей r 3 0 3 0 00065863 00225390 00240351
+вон_там r 1 0 1 0 00076319
+воровато r 1 0 1 0 00179357
+впереди r 4 0 4 0 00056665 00061782 00062251 00097005
+вперемешку r 1 0 1 0 00152744
+вперёд r 17 2 ! ;u 17 0 00062034 00062251 00062484 00062774 00063027 00063330 00063540 00063722 00063961 00064145 00064333 00064513 00069563 00070401 00096886 00097005 00214170
+вполне r 15 2 ! ;u 15 0 00005838 00007451 00008257 00008959 00016439 00016919 00017205 00053244 00053384 00058995 00090789 00090926 00141071 00146654 00455815
+впоследствии r 1 0 1 0 00056926
+впредь r 2 0 2 0 00030710 00135432
+врасплох r 2 0 2 0 00436672 00436905
+время_от_времени r 1 0 1 0 00019108
+всегда r 6 2 ! ;u 6 0 00017407 00017668 00017821 00135556 00196090 00209680
+всем_народом r 1 0 1 0 00175389
+всенародно r 1 0 1 0 00175389
+всецело r 4 2 ! ;u 4 0 00005838 00058995 00141071 00146654
+вскоре r 6 1 ;u 6 0 00031664 00031797 00032079 00032202 00033100 00045230
+вслед_за_этим r 1 0 1 0 00324082
+вслух r 2 1 ! 2 0 00064917 00065055
+вспыльчиво r 1 0 1 0 00199443
+всюду r 9 1 ;u 9 0 00023567 00066019 00066152 00066594 00066752 00066869 00067082 00067258 00067396
+всё-таки r 1 0 1 0 00015418
+всё_больше_и_больше r 1 0 1 0 00055683
+всё_же r 2 0 2 0 00015418 00025192
+втихомолку r 1 0 1 0 00179220
+втрое r 1 0 1 0 00430520
+втройне r 1 0 1 0 00430520
+вчера r 2 0 2 0 00458736 00458839
+вшестеро r 1 0 1 0 00411734
+вширь r 1 0 1 0 00257983
+вы r 5 0 5 0 00183639 00207958 00208163 00208410 00208611
+выгодно r 1 1 ! 1 0 00197202
+выжидать r 1 0 1 0 00232591
+высоко r 3 0 3 0 00324600 00324692 00324786
+выше r 1 1 ! 1 0 00074513
+где-нибудь r 2 1 ;u 2 0 00023083 00023377
+где-нибудь_в_другом_месте r 1 0 1 0 00078650
+где? r 1 0 1 0 00447440
+геометрически r 2 1 ! 2 0 00083325 00131472
+герметически r 1 0 1 0 00324224
+главным_образом r 3 0 3 0 00004063 00068856 00144677
+гладко r 2 0 2 0 00194260 00311443
+глубоко r 3 0 3 0 00161738 00279606 00279701
+глупо r 1 0 1 0 00275766
+гневно r 2 0 2 0 00209257 00322995
+головой r 2 0 2 0 00200697 00200791
+головой_вперёд r 3 0 3 0 00322315 00322436 00322696
+головокружительно r 1 0 1 0 00076839
+гордо r 1 0 1 0 00176461
+горестно r 1 0 1 0 00319358
+горько_и_пр. r 2 0 2 0 00049222 00049336
+горячо r 1 0 1 0 00245497
+графически r 3 0 3 0 00115853 00123494 00284044
+грациозно r 1 0 1 0 00311157
+громко r 4 1 ! 4 0 00064917 00065055 00248184 00373897
+грубо r 1 0 1 0 00004008
+грубо_и_пр. r 2 1 ;u 2 0 00321791 00321893
+грязно r 4 0 4 0 00285406 00285506 00313259 00313397
+густо r 4 1 ! 4 0 00274603 00294679 00430794 00431748
+гуськом r 1 0 1 0 00237827
+да r 1 0 1 0 00449462
+даже r 1 0 1 0 00369034
+далее r 6 0 6 0 00027406 00027759 00062251 00064333 00064513 00097005
+далеко r 7 2 ! ;u 7 0 00008959 00094199 00094357 00094487 00094662 00094835 00094940
+дальше r 6 1 ;u 6 0 00027406 00027759 00030860 00031018 00096886 00214170
+даром r 1 0 1 0 00238397
+дважды r 1 0 1 0 00060549
+движение_дальше r 2 0 2 0 00064333 00064513
+действительно r 2 1 ;u 2 0 00029684 00034848
+деловито r 1 0 1 0 00192479
+диаметрально r 1 0 1 0 00284225
+длительно r 1 0 1 0 00355530
+до_известной_степени r 1 1 ! 1 0 00360789
+до_конца r 2 1 ;u 2 0 00053244 00053384
+до_настоящего_времени r 1 0 1 0 00025676
+до_небес r 3 0 3 0 00412455 00412625 00412738
+до_некоторой_степени r 1 0 1 0 00016687
+до_сих_пор r 2 1 ! 2 0 00025676 00029048
+до_того_времени r 1 0 1 0 00453705
+доброжелательно r 1 1 ! 1 0 00002472
+доверчиво r 1 1 ! 1 0 00292352
+довольно r 3 1 ! 3 0 00016687 00033423 00134869
+догматически r 1 0 1 0 00292687
+докапываться r 1 0 1 0 00279830
+долго r 2 0 2 0 00154725 00155023
+должным_образом r 2 0 2 0 00059986 00456681
+дома r 3 0 3 0 00091061 00091602 00091745
+домой r 1 0 1 0 00091833
+дорого r 2 0 2 0 00072429 00072565
+дорогой_ценой r 2 0 2 0 00072429 00072565
+дословно r 1 0 1 0 00238070
+достаточно r 2 1 ! 2 0 00033423 00166641
+друг_против_друга r 1 0 1 0 00042094
+дурно r 8 1 ! 8 0 00010210 00011215 00011943 00012621 00014025 00014254 00014467 00014710
+дёшево r 3 1 ! 3 0 00261424 00304332 00421801
+едва r 2 0 2 0 00000856 00001347
+единственно r 1 0 1 0 00006381
+едко r 1 0 1 0 00061664
+ежегодно r 1 0 1 0 00231038
+ежедневно r 2 0 2 0 00075713 00165672
+ежемесячно r 1 0 1 0 00235140
+ежеминутно r 2 0 2 0 00032301 00085869
+еженедельно r 1 0 1 0 00075812
+ежечасно r 1 0 1 0 00326432
+ещё r 4 1 ! 4 0 00025551 00025926 00029048 00044627
+жадно r 1 0 1 0 00255045
+жалко r 1 2 ! ;u 1 0 00009435
+жестоко r 4 1 ! 4 0 00213684 00213764 00417126 00460491
+живо r 1 0 1 0 00354951
+за_борт r 2 0 2 0 00161514 00457808
+за_границей r 2 0 2 0 00097166 00169345
+за_границу r 1 0 1 0 00169345
+за_кулисами r 2 0 2 0 00255292 00255414
+за_морем r 1 0 1 0 00376877
+за_плечами r 2 0 2 0 00317761 00317908
+за_полцены r 1 0 1 0 00452250
+за_пределы r 1 1 ! 1 0 00238924
+за_спиной r 2 0 2 0 00439700 00440061
+за_штуку r 1 0 1 0 00221271
+за_это r 1 1 ;c 1 0 00041106
+заботливо r 2 1 ! 2 0 00142843 00259713
+завтра r 1 0 1 0 00432895
+задним_числом r 1 0 1 0 00204288
+заискивающе r 1 0 1 0 00340598
+заметно r 3 1 ! 3 0 00179918 00332139 00347059
+замечательно r 2 0 2 0 00410804 00437808
+заранее r 2 0 2 0 00056375 00062034
+заслуженно r 1 1 ! 1 0 00276183
+затем r 3 0 3 0 00030860 00031018 00050591
+здесь r 4 2 ! ;u 4 0 00101181 00101483 00101749 00222004
+здорово r 3 1 ;u 3 0 00170028 00306612 00388485
+зигзагообразно r 1 0 1 0 00449888
+злорадно r 1 0 1 0 00317268
+значительно r 3 2 ! ;u 3 0 00008959 00094940 00332139
+идеально r 1 0 1 0 00181437
+из_того r 1 0 1 0 00422889
+из_этого r 2 0 2 0 00040823 00422889
+извне r 1 1 ! 1 0 00103449
+изредка r 1 0 1 0 00019108
+изумлённо r 1 0 1 0 00273139
+именно r 5 1 ! 5 0 00001168 00031201 00147356 00334487 00334803
+иначе r 3 0 3 0 00043052 00105537 00249668
+инкогнито r 1 0 1 0 00336256
+иногда r 1 0 1 0 00019710
+иным_способом r 1 0 1 0 00043052
+исключительно r 9 0 9 0 00006381 00008517 00008708 00008841 00026040 00129179 00147039 00166531 00456310
+искренне r 3 0 3 0 00034669 00193374 00202039
+истинно r 1 1 ;u 1 0 00445157
+к_берегу r 2 0 2 0 00129060 00350134
+к_востоку r 1 0 1 0 00295438
+к_дому r 1 0 1 0 00091833
+к_западу r 1 0 1 0 00295189
+к_морю r 1 0 1 0 00404161
+к_небу r 1 0 1 0 00241168
+к_северо-востоку r 1 0 1 0 00372933
+к_северозападу r 1 0 1 0 00373054
+к_северу r 1 0 1 0 00224815
+к_счастью r 1 1 ! 1 0 00039358
+к_тому r 2 0 2 0 00323970 00423108
+к_тому_же r 3 0 3 0 00027134 00037688 00044522
+к_этому r 2 0 2 0 00323970 00423108
+к_юго-востоку r 1 0 1 0 00417488
+к_юго-западу r 1 0 1 0 00417652
+к_югу r 3 0 3 0 00224686 00418389 00418504
+как-нибудь r 2 0 2 0 00023963 00024201
+как_бы_ни r 3 0 3 0 00026181 00026343 00026570
+как_и_следовало_ожидать r 3 1 ! 3 0 00130240 00441562 00456545
+как_попало r 5 0 5 0 00152350 00152744 00163056 00396969 00413579
+как_правило r 1 1 ! 1 0 00039096
+как_придётся r 1 0 1 0 00235971
+как_раз r 3 0 3 0 00001168 00031201 00147356
+как_столб r 1 0 1 0 00422124
+как_стрела r 1 0 1 0 00180725
+как_хотите r 1 0 1 0 00109631
+каким_бы_то_ни_было_образом r 2 0 2 0 00024367 00025033
+категорически r 1 0 1 0 00383285
+книзу r 1 1 ! 1 0 00088121
+когда-нибудь r 1 0 1 0 00019520
+кое-как r 1 0 1 0 00413579
+колко r 1 0 1 0 00061664
+конечно r 5 2 ! ;u 5 0 00130240 00133981 00246430 00441562 00456545
+конфиденциально r 1 0 1 0 00157921
+концом_вперёд r 3 0 3 0 00299776 00299896 00300019
+косвенным_образом r 2 1 ! 2 0 00333545 00333839
+косо r 7 0 7 0 00250750 00250911 00251222 00253361 00253574 00254809 00413212
+крадучись r 1 0 1 0 00099264
+краем r 2 0 2 0 00296527 00296684
+красиво r 1 0 1 0 00390310
+красновато r 1 0 1 0 00457341
+кратко r 2 0 2 0 00085738 00266297
+крепко r 3 0 3 0 00047544 00079496 00079936
+крест-накрест r 1 0 1 0 00251744
+крестообразно r 1 0 1 0 00269008
+криво r 3 0 3 0 00250750 00250911 00251222
+кроме_того r 2 0 2 0 00026804 00027134
+кротко r 2 0 2 0 00169232 00454245
+кругло r 2 0 2 0 00210532 00257649
+кругом r 10 0 10 0 00066019 00066152 00066452 00066594 00066752 00066869 00067082 00067258 00067396 00325653
+круто r 6 1 ;c 6 0 00057200 00272495 00408808 00408946 00409103 00409217
+кстати r 3 0 3 0 00007667 00145320 00252589
+куда-нибудь r 2 1 ;u 2 0 00023083 00023377
+ласково r 1 0 1 0 00171068
+легато r 1 1 ! 1 0 00352120
+легко r 8 2 ! ;u 8 0 00003003 00036163 00050844 00137187 00167886 00226948 00311157 00354646
+лениво r 1 0 1 0 00328910
+лихо r 2 0 2 0 00170028 00306612
+лично r 6 1 ! 6 0 00122637 00122792 00123001 00207826 00332627 00332811
+ловко r 1 0 1 0 00354951
+лояльно r 1 1 ;u 1 0 00035536
+лукаво r 1 0 1 0 00252936
+лучше r 3 0 3 0 00016124 00055433 00107637
+лучше_всего r 3 0 3 0 00174821 00174917 00460757
+любезно r 6 1 ! 6 0 00002472 00099792 00200990 00201620 00213000 00307616
+мало r 1 0 1 0 00093217
+мало-помалу r 1 0 1 0 00100721
+медленно r 2 2 ! ;u 2 0 00150557 00204698
+между r 2 0 2 0 00231330 00450226
+между_прочим r 2 0 2 0 00145320 00252589
+менее r 2 1 ! 2 0 00092717 00093063
+менее_всего r 1 1 ! 1 0 00104254
+меньше r 2 1 ! 2 0 00092717 00093063
+мерзко r 1 0 1 0 00272720
+мечтательно r 1 0 1 0 00294254
+милостиво r 1 1 ! 1 0 00180400
+мимо r 1 0 1 0 00378363
+много_раз r 3 1 ! 3 0 00032876 00055213 00055349
+многоречиво r 1 0 1 0 00220047
+может_быть r 1 0 1 0 00275048
+морально r 2 1 ! 2 0 00124680 00331175
+мощно r 1 0 1 0 00084186
+мрачно r 3 0 3 0 00190604 00190704 00213588
+мягко r 4 1 ;u 4 0 00137428 00169232 00171068 00454245
+на_авансцене r 1 2 ! ;c 1 0 00244097
+на_берег r 1 0 1 0 00129060
+на_борт r 1 0 1 0 00230504
+на_борту r 3 1 ;c 3 0 00230115 00230277 00230382
+на_вид r 2 1 ! 2 0 00211611 00211890
+на_восток r 3 1 ! 3 0 00295055 00295438 00295601
+на_запад r 2 0 2 0 00295189 00295331
+на_корабле r 3 1 ;c 3 0 00230115 00230277 00230382
+на_корабль r 1 0 1 0 00230504
+на_корме r 3 2 ;c ! 3 0 00253795 00254011 00254532
+на_мели r 1 0 1 0 00249218
+на_некоторое_время r 1 0 1 0 00133667
+на_обратной_стороне_листа_или_страницы r 1 0 1 0 00376571
+на_одной_линии r 1 0 1 0 00230909
+на_открытом_воздухе r 1 1 ! 1 0 00103202
+на_полдороге r 1 0 1 0 00235504
+на_полпути r 1 0 1 0 00235504
+на_самом_деле r 4 0 4 0 00138377 00138774 00139001 00139298
+на_север r 1 0 1 0 00224815
+на_северо-запад r 1 0 1 0 00373054
+на_северовосток r 1 0 1 0 00372933
+на_слух r 1 0 1 0 00071646
+на_спине r 2 0 2 0 00317761 00317908
+на_том r 1 0 1 0 00423015
+на_траверзе r 1 0 1 0 00070844
+на_этом r 1 0 1 0 00423015
+на_юг r 2 0 2 0 00224686 00418504
+на_юго-восток r 1 0 1 0 00417488
+на_юго-запад r 1 0 1 0 00417652
+навеки r 1 0 1 0 00303007
+наверх r 2 1 ! 2 0 00087307 00087417
+наверху r 10 1 ! 10 0 00074698 00229769 00229991 00254889 00443278 00443381 00450330 00450449 00450795 00450883
+навсегда r 2 1 ;u 2 0 00080832 00082241
+над_головой r 2 0 2 0 00229769 00229991
+надолго r 1 1 ! 1 0 00081120
+назад r 9 1 ! 9 0 00069112 00069329 00069835 00070054 00070184 00070304 00070611 00070698 00070944
+наискось r 2 0 2 0 00253361 00253574
+накануне_вечером r 2 0 2 0 00225112 00225240
+налево r 1 1 ! 1 0 00351758
+наоборот r 3 0 3 0 00158959 00165573 00228514
+наотрез r 1 0 1 0 00383285
+наполовину r 1 0 1 0 00005718
+напрасно r 1 0 1 0 00156560
+напротив r 2 0 2 0 00041871 00042094
+напряжённо r 1 0 1 0 00162095
+нарочно r 2 1 ! 2 0 00057895 00458385
+наружу r 1 1 ! 1 0 00238924
+насквозь r 5 0 5 0 00053611 00432261 00432365 00432464 00432555
+настоятельно r 1 0 1 0 00153746
+настоящим r 1 1 ;u 1 0 00235730
+наугад r 2 0 2 0 00163056 00396969
+не r 1 0 1 0 00021767
+не_вовремя r 1 1 ! 1 0 00341504
+не_спеша r 1 0 1 0 00098105
+небрежно r 1 0 1 0 00368913
+неважно r 1 1 ! 1 0 00051560
+неверно r 1 1 ! 1 0 00188808
+невольно r 1 1 ! 1 0 00219531
+недавно r 2 0 2 0 00100256 00105038
+недовольно r 1 0 1 0 00286331
+нежно r 4 0 4 0 00072703 00169232 00210722 00454245
+незаконно r 1 0 1 0 00440662
+незаметно r 1 0 1 0 00372677
+незаметно_для_других r 2 0 2 0 00151307 00155316
+незаслуженно r 1 1 ! 1 0 00276405
+незначительно r 2 1 ! 2 0 00004409 00457562
+некогда r 1 0 1 0 00111098
+некстати r 1 1 ! 1 0 00341504
+нелепо r 1 0 1 0 00275766
+немедленно r 3 0 3 0 00045689 00422330 00422451
+немного r 3 0 3 0 00033879 00093217 00414290
+немного_времени_спустя r 2 0 2 0 00031797 00045230
+ненадолго r 1 0 1 0 00133667
+необыкновенно r 1 1 ! 1 0 00100126
+необычайно r 2 0 2 0 00134427 00196734
+необычайным_образом r 1 0 1 0 00043883
+неоднократно r 1 0 1 0 00164779
+неодобрительно r 1 1 ! 1 0 00242161
+неожиданно r 2 0 2 0 00436672 00436905
+неохотно r 3 1 ! 3 0 00084322 00279451 00319836
+неподалёку r 2 0 2 0 00422562 00422681
+непосредственно r 3 0 3 0 00048430 00455274 00455384
+неправильно r 3 1 ! 3 0 00188808 00251023 00440662
+непреднамеренно r 1 1 ! 1 0 00219531
+непредумышленно r 1 0 1 0 00408692
+непременно r 4 2 ;u ! 4 0 00104835 00133981 00369562 00369717
+неприветливо r 1 0 1 0 00314889
+нерешительно r 2 1 ! 2 0 00135291 00320611
+несколько r 1 0 1 0 00016687
+несколько_раз r 1 0 1 0 00164779
+несомненно r 6 1 ;u 6 0 00034461 00035775 00073759 00169863 00246430 00462302
+несчастно_и_пр. r 1 0 1 0 00364871
+нет r 4 0 4 0 00021767 00022092 00022340 00047415
+неудачно r 1 0 1 0 00244387
+неудовлетворительно r 1 1 ! 1 0 00013579
+нехорошо r 1 0 1 0 00251023
+нехотя r 1 1 ! 1 0 00319836
+нечаянно r 1 0 1 0 00408692
+ни r 1 0 1 0 00021767
+ни_в_коем_случае r 1 0 1 0 00372805
+нигде r 1 0 1 0 00023280
+ниже r 11 1 ! 11 0 00074417 00238500 00323543 00438869 00438966 00439045 00439131 00439232 00439370 00439479 00439581
+низко r 4 0 4 0 00356475 00360178 00360293 00360401
+никак r 1 0 1 0 00371744
+никогда r 1 0 1 0 00018885
+никогда:_ne'er_a..._ни_один... r 1 1 ! 1 0 00018618
+никогда_больше r 1 0 1 0 00370784
+никогда_впредь r 1 0 1 0 00370784
+никоим_образом r 2 0 2 0 00371744 00372805
+нисколько r 3 0 3 0 00021961 00022248 00022438
+номинально r 1 0 1 0 00116680
+ночью r 1 0 1 0 00371419
+об_этом r 1 0 1 0 00323877
+обильно r 1 0 1 0 00197763
+обозначает_движение r 1 0 1 0 00214537
+обозначает_отдаление_от_данного_места_далеко_и_т.п. r 5 0 5 0 00215943 00216225 00216640 00217271 00217491
+обратно r 8 1 ! 8 0 00069112 00069835 00070054 00070184 00070304 00072805 00163983 00269199
+обстоятельно r 4 1 ! 4 0 00037769 00364528 00451015 00451173
+обыкн.__итак r 1 0 1 0 00040326
+обыкновенно r 2 0 2 0 00004063 00144677
+обычно r 4 1 ! 4 0 00004063 00039096 00099936 00144677
+обязательно r 3 1 ! 3 0 00104835 00369562 00369717
+одинаково r 1 0 1 0 00064698
+однако r 1 0 1 0 00025192
+одобрительно r 1 1 ! 1 0 00242043
+оживлённо r 1 1 ! 1 0 00047188
+около r 1 0 1 0 00068072
+окончание_действия r 1 0 1 0 00216912
+окончательно r 2 1 ;u 2 0 00007084 00007293
+опрятно r 1 0 1 0 00167668
+оптом r 2 1 ! 2 0 00240976 00400094
+опытным_путём r 1 0 1 0 00078985
+опять r 1 0 1 0 00037580
+ослепительно r 1 0 1 0 00131674
+осмотрительно r 1 0 1 0 00316536
+основательно r 1 0 1 0 00012193
+особенно r 6 0 6 0 00068856 00077993 00078421 00129179 00228917 00454151
+особо r 1 0 1 0 00078421
+осторожно r 5 1 ! 5 0 00207632 00268474 00316536 00335217 00399082
+остриём r 2 0 2 0 00296527 00296684
+остро r 2 0 2 0 00002172 00061664
+остроумно r 1 0 1 0 00448724
+от_far_2 r 3 0 3 0 00028224 00028437 00028687
+от_late_2 r 1 0 1 0 00061005
+от_much_2 r 4 2 ! ;u 4 0 00092547 00092901 00104123 00104537
+отвесно r 1 0 1 0 00386534
+отвратительно r 5 0 5 0 00030508 00248401 00272720 00313259 00313397
+отделение:_i_must_be_off_я_должен_уходить r 1 0 1 0 00179438
+отдельно r 8 1 ! 8 0 00077348 00168313 00168523 00168671 00168879 00192012 00215539 00215749
+откровенно r 2 0 2 0 00003109 00441887
+открыто r 8 1 ! 8 0 00031339 00049795 00073241 00171561 00175959 00255125 00255775 00441887
+откуда? r 1 0 1 0 00447366
+отлично r 4 0 4 0 00049452 00095650 00170028 00306612
+отмену:_to_break_off_negotiations_прервать_переговоры r 1 0 1 0 00216912
+относительно r 1 0 1 0 00149820
+отсюда r 3 1 ;u 3 0 00040460 00040551 00040823
+оттуда r 1 0 1 0 00040644
+отчётливо r 3 0 3 0 00169594 00281320 00281480
+официально r 2 1 ! 2 0 00106550 00173373
+охотнее r 1 0 1 0 00016124
+охотно r 3 1 ! 3 0 00150130 00279324 00316676
+очевидно r 1 1 ;u 1 0 00036780
+очень r 22 2 ! ;u 22 0 00003754 00008959 00022932 00029684 00030105 00030645 00043376 00051358 00052564 00054932 00055022 00082420 00082601 00082864 00182371 00205506 00221117 00229148 00384991 00388485 00447493 00461589
+очень_быстро r 1 0 1 0 00304815
+очень_рад r 1 0 1 0 00035063
+очертя_голову r 1 0 1 0 00413579
+ошеломляюще r 1 0 1 0 00299106
+ошибочно r 1 0 1 0 00181566
+ощупью r 1 0 1 0 00319582
+педагогически r 1 0 1 0 00296801
+первоначально r 4 1 ! 4 0 00128349 00143869 00155981 00390767
+передаётся_приставками_пере- r 5 0 5 0 00183639 00207958 00208163 00208410 00208611
+перерыв r 1 0 1 0 00216912
+перманентно r 1 1 ! 1 0 00081120
+персонально r 5 1 ! 5 0 00122637 00122792 00123001 00332627 00332811
+печально r 2 0 2 0 00200578 00319358
+пианиссимо r 1 1 ! 1 0 00313035
+пиано r 1 1 ! 1 0 00312803
+пиццикато r 1 1 ;c 1 0 00383184
+плавно r 1 0 1 0 00311443
+плоско r 2 0 2 0 00080550 00310600
+плотно r 3 1 ! 3 0 00274603 00294679 00324224
+плохо r 12 2 ! ;u 12 0 00007862 00008063 00009435 00009834 00010210 00011215 00011943 00012621 00014025 00014254 00014467 00014710
+по-братски r 1 1 ;u 1 0 00265594
+по-видимому r 1 0 1 0 00037245
+по-матерински r 1 0 1 0 00358952
+по-прежнему r 1 1 ! 1 0 00029048
+по-царски r 1 0 1 0 00397988
+по-человечески r 1 0 1 0 00132246
+по_большей_части r 2 0 2 0 00004063 00144677
+по_временам r 1 0 1 0 00019710
+по_достоинству r 1 1 ! 1 0 00276183
+по_заслугам r 1 1 ! 1 0 00276183
+по_крайней_мере r 1 1 ;u 1 0 00097795
+по_необходимости r 2 0 2 0 00104835 00240351
+по_ночам r 1 0 1 0 00371419
+по_общему_мнению r 1 0 1 0 00143643
+по_порядку r 1 0 1 0 00217643
+по_принуждению r 1 0 1 0 00451431
+по_прямой_линии r 1 0 1 0 00460358
+по_секрету r 1 0 1 0 00157921
+по_существу r 3 0 3 0 00001689 00344492 00384659
+по_счастливой_случайности r 1 1 ! 1 0 00039358
+по_традиции r 1 0 1 0 00430650
+по_часовой_стрелке r 1 1 ! 1 0 00234544
+по_частям r 1 0 1 0 00382180
+поблизости r 1 0 1 0 00101071
+повсюду r 4 0 4 0 00237296 00447587 00447820 00448123
+повторно r 1 0 1 0 00164779
+под_ветром r 1 0 1 0 00249445
+под_землёй r 2 0 2 0 00439826 00439934
+под_ногами r 2 0 2 0 00225705 00225831
+под_тем r 1 0 1 0 00423216
+под_чужим_именем r 1 0 1 0 00336256
+под_этим r 1 0 1 0 00423216
+подбоченясь r 1 0 1 0 00249322
+подлинно r 1 0 1 0 00248537
+подло r 3 0 3 0 00360178 00360293 00360401
+подобно r 3 0 3 0 00064698 00064821 00128043
+подозрительно r 1 0 1 0 00395301
+подробно r 4 1 ! 4 0 00037769 00364528 00451015 00451173
+подчёркивания:_very_glad_indeed_очень r 1 0 1 0 00035063
+пожалуй r 1 0 1 0 00016687
+позади r 4 0 4 0 00203758 00203971 00204514 00459093
+поздно r 2 1 ! 2 0 00093475 00279956
+позже r 3 0 3 0 00056926 00144552 00459199
+поистине r 2 1 ;u 2 0 00035775 00445157
+полно r 1 1 ! 1 0 00166641
+полностью r 8 2 ! ;u 8 0 00005838 00006761 00146654 00262118 00408130 00408237 00420500 00455815
+положительно r 2 1 ;u 2 0 00169863 00462302
+поневоле r 1 0 1 0 00451431
+понемногу r 1 0 1 0 00100721
+поодаль r 1 0 1 0 00114654
+поодиночке r 2 1 ! 2 0 00077348 00192012
+поперёк r 2 0 2 0 00251845 00257983
+пополам r 1 0 1 0 00196646
+поровну r 2 1 ! 2 0 00301762 00302543
+порознь r 1 0 1 0 00168523
+порядочно r 2 1 ! 2 0 00182088 00227790
+посередине_корабля r 1 0 1 0 00364039
+после r 1 0 1 0 00050591
+после_этого r 1 0 1 0 00324082
+поспешно r 3 1 ! 3 0 00079379 00190918 00191257
+посредственно r 1 0 1 0 00368476
+постепенно r 3 0 3 0 00100721 00372677 00382180
+постоянно r 2 1 ! 2 0 00018292 00081120
+поступайте r 1 0 1 0 00109631
+потом r 2 0 2 0 00050591 00056926
+почти r 4 0 4 0 00004900 00020685 00068072 00370929
+почтительно r 1 1 ! 1 0 00291219
+поэтому r 3 0 3 0 00039978 00113159 00270126
+правдиво r 2 1 ! 2 0 00204821 00343550
+правильно r 8 2 ;u ! 8 0 00053985 00059986 00098290 00139682 00188619 00189613 00189711 00351940
+практически r 2 0 2 0 00049921 00050145
+практично r 3 0 3 0 00115039 00115202 00115364
+превосходно r 3 1 ;u 3 0 00170644 00181437 00309994
+преданно r 1 0 1 0 00283610
+предварительно r 1 0 1 0 00056375
+предположительно r 2 0 2 0 00050363 00180039
+предпочтительно r 3 0 3 0 00016124 00107637 00234807
+предусмотрительно r 1 1 ! 1 0 00335217
+прежде r 1 0 1 0 00111098
+прежде_всего r 1 1 ! 1 0 00128349
+презрительно r 1 0 1 0 00074999
+прекрасно r 3 0 3 0 00049452 00095650 00309994
+прекращение r 1 0 1 0 00216912
+престо r 2 1 ;c 2 0 00057445 00057535
+преступно r 2 0 2 0 00267729 00267894
+преувеличенно r 1 0 1 0 00176189
+приближённо r 1 0 1 0 00004900
+приблизительно r 2 0 2 0 00004900 00068072
+прилично r 2 1 ! 2 0 00182088 00227790
+пристально r 1 0 1 0 00310187
+притворно r 2 0 2 0 00305903 00306110
+приятно r 1 1 ! 1 0 00201465
+проблематично r 1 0 1 0 00391007
+прозаично r 1 0 1 0 00392159
+просто r 4 1 ;u 4 0 00002803 00003003 00068749 00226948
+против_желания r 1 1 ! 1 0 00279451
+против_часовой_стрелки r 1 1 ! 1 0 00234262
+профессионально r 1 0 1 0 00121277
+прочно r 2 0 2 0 00012193 00079496
+прямо r 16 2 ! ;u 16 0 00003109 00031339 00047906 00048070 00048194 00048430 00048586 00048704 00054098 00171561 00256084 00383285 00443505 00443580 00455512 00460358
+публично r 4 1 ! 4 0 00049795 00073241 00150826 00151629
+пункт_за_пунктом r 1 0 1 0 00217643
+пылко r 1 0 1 0 00245497
+равно r 1 0 1 0 00019989
+равнодушно r 1 0 1 0 00338096
+равным_образом r 1 0 1 0 00236713
+раз r 2 0 2 0 00111026 00168998
+раз_в_год r 1 0 1 0 00075915
+раз_в_два_месяца r 2 0 2 0 00235231 00235338
+раз_в_две_недели r 2 0 2 0 00234932 00235042
+раз_в_квартал r 2 0 2 0 00394850 00394994
+раз_в_полгода r 1 0 1 0 00320811
+раз_в_три_месяца r 2 0 2 0 00394850 00394994
+раздражительно r 1 0 1 0 00199443
+раздражённо r 1 0 1 0 00269581
+разумно r 1 1 ! 1 0 00198791
+ранее r 1 1 ! 1 0 00074513
+рано r 3 1 ! 3 0 00093315 00093749 00093830
+раньше r 1 0 1 0 00245330
+рассеянно r 2 0 2 0 00061398 00444281
+расточительно r 1 0 1 0 00391190
+рационально r 1 1 ! 1 0 00171772
+редко r 1 1 ! 1 0 00033185
+резко r 7 1 ;c 7 0 00057200 00272495 00383285 00408808 00408946 00409103 00409217
+решительно r 4 1 ! 4 0 00048194 00135129 00169442 00383285
+ровно r 7 1 ! 7 0 00015219 00015856 00016007 00080550 00301762 00302543 00454467
+роскошно r 4 1 ! 4 0 00174368 00324905 00359768 00459547
+рядом r 2 0 2 0 00215003 00230909
+с_благодарностью r 2 1 ! 2 0 00185304 00250352
+с_важным_видом r 4 1 ! 4 0 00207052 00207176 00207306 00207510
+с_виноватым_видом r 1 0 1 0 00320355
+с_волнением r 1 0 1 0 00172958
+с_государственной_или_политической_точки_зрения r 2 0 2 0 00107842 00108015
+с_готовностью r 2 1 ! 2 0 00150130 00279324
+с_жадностью r 1 0 1 0 00255045
+с_жалостью r 1 0 1 0 00219912
+с_жаром r 1 1 ! 1 0 00308640
+с_запада r 2 1 ! 2 0 00295714 00295814
+с_кормы r 1 1 ! 1 0 00254011
+с_наветренной_стороны r 1 1 ! 1 0 00087819
+с_напряжением r 1 0 1 0 00162095
+с_негодованием r 1 0 1 0 00338242
+с_неохотой r 1 0 1 0 00084322
+с_общенациональной_точки_зрения r 2 0 2 0 00125956 00368624
+с_помощью_цифр r 1 0 1 0 00372407
+с_пятидесятипроцентной_скидкой r 1 0 1 0 00452250
+с_радостью r 1 0 1 0 00316676
+с_размаху r 1 0 1 0 00414839
+с_сожалением r 1 0 1 0 00219912
+с_тем r 1 0 1 0 00423333
+с_тревогой r 1 0 1 0 00172958
+с_трудом r 2 0 2 0 00000856 00001347
+с_уверенностью r 2 1 ;u 2 0 00169863 00462302
+с_чувством r 1 1 ! 1 0 00308640
+с_шипением r 1 0 1 0 00382700
+с_шумом r 1 0 1 0 00386841
+с_этим r 1 0 1 0 00423333
+с_этого_времени r 2 0 2 0 00030710 00135432
+сам r 5 1 ! 5 0 00122637 00122792 00123001 00332627 00332811
+сбиться_с_пути r 2 0 2 0 00190806 00447959
+сварливо r 1 0 1 0 00269581
+свежо r 1 0 1 0 00332983
+сверх_того r 1 0 1 0 00026804
+сверхурочно r 1 0 1 0 00240244
+свободно r 4 1 ! 4 0 00010472 00036163 00194457 00441887
+свободно_и_пр. r 5 1 ! 5 0 00142749 00167158 00203421 00325548 00462193
+сдержанно r 2 0 2 0 00268474 00399082
+сегодня r 1 0 1 0 00191722
+сегодня_вечером r 1 0 1 0 00074095
+сейчас r 5 0 5 0 00045949 00046090 00046313 00046588 00046684
+сердечно r 3 0 3 0 00193374 00202039 00202187
+сердито r 1 0 1 0 00209257
+сжато r 2 0 2 0 00085738 00266297
+сзади r 4 0 4 0 00203758 00203971 00204514 00459093
+сильно r 7 1 ! 7 0 00079496 00082420 00082601 00082864 00084186 00169442 00205506
+сим r 1 1 ;u 1 0 00235730
+скорее r 2 0 2 0 00016124 00234807
+скоро r 2 1 ;u 2 0 00031664 00033100
+скудно r 1 2 ! ;u 1 0 00009435
+слабо r 2 1 ! 2 0 00165385 00368476
+сладко_и_пр. r 1 2 ;c ;u 1 0 00426689
+слева r 1 1 ! 1 0 00351758
+слегка r 8 1 ! 8 0 00016687 00026704 00033879 00164663 00167789 00414290 00431405 00459994
+следовательно r 4 0 4 0 00039978 00040326 00058267 00270126
+слепо r 2 0 2 0 00059532 00162300
+слишком_много r 1 0 1 0 00376730
+слово_в_слово r 2 0 2 0 00238070 00462506
+служит_для_усиления r 1 0 1 0 00035063
+случайно r 3 2 ! ;u 3 0 00058111 00195927 00380203
+смело r 1 0 1 0 00172229
+смертельно r 4 1 ;u 4 0 00043689 00234708 00279031 00365871
+смущённо r 1 0 1 0 00269969
+снаружи r 5 1 ! 5 0 00103449 00211611 00211890 00214077 00214711
+сначала r 3 1 ! 3 0 00096678 00128349 00458005
+снисходительно r 1 0 1 0 00339239
+снова r 2 0 2 0 00037580 00105286
+со_всего_размаха r 2 0 2 0 00413315 00413738
+со_свистом r 1 0 1 0 00382700
+собственной_персоной r 6 1 ! 6 0 00122637 00122792 00123001 00207826 00332627 00332811
+совершенно r 18 2 ! ;u 18 0 00005344 00005838 00006761 00007084 00007293 00007451 00016439 00016919 00017205 00053244 00053384 00090670 00090789 00090926 00146654 00262118 00420500 00455815
+совершенно_верно r 2 1 ! 2 0 00334487 00334803
+совершенно_необычно r 1 0 1 0 00043883
+совсем r 6 1 ;u 6 0 00007084 00007293 00016439 00016919 00017205 00029684
+совсем_не r 1 0 1 0 00022438
+совсем_нет r 1 0 1 0 00021961
+сознательно r 1 1 ! 1 0 00219349
+сонно r 1 0 1 0 00294481
+сообща r 2 0 2 0 00109210 00183329
+соответственно r 2 0 2 0 00058480 00127913
+социально r 2 0 2 0 00117977 00118079
+сперва r 3 1 ! 3 0 00096678 00128349 00458005
+спешно r 1 0 1 0 00304815
+спокойно r 7 1 ! 7 0 00065305 00098105 00173602 00210996 00211166 00395984 00404642
+справедливо r 2 1 ! 2 0 00189837 00189975
+сравнительно r 1 0 1 0 00149820
+сразу r 4 0 4 0 00098617 00098756 00422330 00422451
+стаккато r 1 1 ! 1 0 00352236
+старательно r 1 0 1 0 00339429
+странно r 3 0 3 0 00033267 00076014 00395426
+страшно r 1 0 1 0 00380661
+строго_и_пр. r 6 0 6 0 00013810 00084858 00166845 00206846 00222361 00424105
+существенным_образом r 2 0 2 0 00126980 00127131
+счастливо r 1 1 ! 1 0 00039541
+сызнова r 1 0 1 0 00105286
+сюда r 1 1 ! 1 0 00101363
+тайно r 4 0 4 0 00179220 00326636 00439700 00440061
+так r 6 1 ;u 6 0 00110491 00135755 00135955 00136149 00136380 00136557
+так_себе r 1 1 ! 1 0 00051560
+также r 2 0 2 0 00044522 00236713
+таким_образом r 8 1 ;u 8 0 00110491 00113009 00113159 00135755 00135955 00136149 00136380 00136557
+там r 3 2 ! ;u 3 0 00101893 00102185 00222004
+там_же r 1 0 1 0 00236110
+твёрдо r 9 0 9 0 00047544 00084427 00084618 00084769 00085031 00085112 00085228 00085338 00085536
+тем_временем r 1 0 1 0 00060218
+тем_не_менее r 3 0 3 0 00015418 00025192 00111267
+теперь r 6 0 6 0 00045436 00045949 00046090 00046313 00046588 00046684
+тесно r 4 1 ! 4 0 00149450 00149668 00203273 00456436
+типично r 1 1 ! 1 0 00228150
+тихо r 5 2 ! ;u 5 0 00065305 00137428 00210996 00211166 00395984
+то_и_дело r 1 0 1 0 00018394
+тогда r 2 0 2 0 00110040 00110174
+тоже r 2 0 2 0 00044522 00236713
+только r 9 0 9 0 00002803 00006381 00008517 00008708 00008841 00026040 00068749 00147039 00456310
+только_что r 1 0 1 0 00105038
+тому_назад r 1 0 1 0 00068991
+торопливо r 1 1 ! 1 0 00190918
+тотчас r 1 0 1 0 00045689
+точно r 7 1 ! 7 0 00001168 00031201 00048704 00147356 00189160 00189397 00454467
+точно_так_же r 1 0 1 0 00064698
+тошнотворно r 1 0 1 0 00395162
+трижды r 1 0 1 0 00237985
+туда r 1 1 ! 1 0 00102035
+тут r 3 1 ! 3 0 00101181 00101483 00101749
+тщетно r 1 0 1 0 00156560
+тягостно r 2 1 ! 2 0 00164463 00323302
+тяжело r 7 1 ! 7 0 00164362 00164463 00164581 00323302 00454030 00458512 00459669
+тяжко r 2 1 ! 2 0 00417126 00460491
+убедительно r 1 0 1 0 00153746
+уверенно r 1 1 ! 1 0 00135129
+удаление r 1 0 1 0 00179438
+удаление_прочь r 1 0 1 0 00214537
+удивительно r 4 0 4 0 00134427 00196734 00410804 00437808
+ужасающе r 1 0 1 0 00241704
+ужасно r 7 0 7 0 00051478 00052439 00248401 00276800 00380661 00382320 00447493
+уже r 1 0 1 0 00029585
+узко r 1 1 ! 1 0 00203273
+указывает_на_движение_через_что-л. r 5 0 5 0 00183639 00207958 00208163 00208410 00208611
+указывает_на_нахождение_наверху_или_на_более_высокое_положение_наверху r 3 1 ! 3 0 00089521 00089810 00090028
+укоризненно r 1 0 1 0 00151910
+украдкой r 2 0 2 0 00099264 00179220
+умело r 1 1 ! 1 0 00172335
+умоляюще r 1 0 1 0 00256986
+умственно r 1 0 1 0 00210450
+умышленно r 3 1 ! 3 0 00057895 00219349 00458385
+уныло r 1 0 1 0 00200578
+употр._для_усиления_значения_при_выражении_согласия:_all_right_then r 1 0 1 0 00109631
+употребляется_для_усиления_прилагательного_очень r 1 0 1 0 00382320
+усердно r 1 0 1 0 00339429
+услужливо r 1 0 1 0 00213000
+устно r 5 1 ;c 5 0 00071646 00119640 00119721 00145582 00145706
+учтиво r 2 1 ! 2 0 00099792 00307616
+уютно r 1 0 1 0 00173952
+фактически r 5 0 5 0 00103973 00138377 00138774 00139001 00139298
+фальшиво r 2 0 2 0 00305903 00306110
+формально r 2 1 ! 2 0 00106550 00173373
+форте r 1 1 ! 1 0 00312919
+фортиссимо r 1 1 ! 1 0 00313147
+характерно r 1 1 ! 1 0 00228150
+хвастливо r 4 1 ! 4 0 00207052 00207176 00207306 00207510
+хитро r 1 0 1 0 00269794
+хладнокровно r 2 0 2 0 00173602 00404642
+холодно r 3 0 3 0 00153645 00314889 00328060
+хорошо r 3 1 ! 3 0 00173873 00182088 00227790
+хорошо! r 10 2 ! ;u 10 0 00010045 00010742 00011063 00011401 00011606 00011749 00012491 00012782 00012915 00013020
+худо r 1 0 1 0 00009834
+хуже r 1 1 ;u 1 0 00014836
+хуже_всего r 1 0 1 0 00015002
+целиком r 2 2 ! ;u 2 0 00005838 00146654
+цугом r 1 0 1 0 00237827
+частично r 1 1 ! 1 0 00005550
+частным_образом r 2 1 ! 2 0 00150995 00151490
+часто r 4 1 ! 4 0 00018394 00032876 00055213 00055349
+часто_и_легко r 2 0 2 0 00384384 00384493
+частью r 1 1 ! 1 0 00005550
+через_борт r 1 0 1 0 00377002
+через_море r 1 0 1 0 00376877
+через_определённые_промежутки_времени r 1 0 1 0 00196419
+чересчур r 1 1 ;u 1 0 00094940
+чертовски r 4 1 ;u 4 0 00022932 00030508 00276800 00384991
+честно r 4 2 ! ;u 4 0 00287047 00287415 00443505 00443580
+четырежды r 1 0 1 0 00313587
+чисто r 3 0 3 0 00212517 00262455 00262571
+чрезвычайно r 9 1 ;u 9 0 00003754 00030105 00043376 00082420 00082601 00082864 00221117 00229148 00380661
+чрезмерно r 2 0 2 0 00044420 00376730
+широко r 6 0 6 0 00034172 00350574 00350666 00447587 00447820 00448123
+широко_и_т.д. r 1 0 1 0 00203573
+шумно r 1 0 1 0 00373897
+щедро r 1 0 1 0 00197763
+экономно r 3 0 3 0 00115039 00115202 00115364
+экспромтом r 3 0 3 0 00081856 00239723 00305235
+энергично r 1 0 1 0 00169442
+этим r 1 1 ;u 1 0 00235730
+явно r 7 2 ;u ! 7 0 00034461 00036780 00090670 00175959 00179918 00255125 00347059
+ярко r 2 0 2 0 00072076 00131674
+ясно r 7 1 ! 7 0 00036575 00169594 00187291 00262681 00262822 00281320 00281480
